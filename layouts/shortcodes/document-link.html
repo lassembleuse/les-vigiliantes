@@ -1,0 +1,6 @@
+{{ with $.Page.Params.pdf }}
+{{ $doc := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+<a target="_blank" href="{{ $doc.Permalink }}">
+   Télécharger le document
+</a>
+{{ end }}

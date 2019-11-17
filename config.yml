@@ -1,6 +1,10 @@
-baseURL: https://lassembleuse.github.io/hugo-starter/
+baseURL: https://lassembleuse.github.io/les-vigiliantes/
 languageCode: fr-fr
-title: Site de demonstration
+title: Les Vigiliantes
 theme: bulma-theme
 DefaultContentLanguage: fr
 metaDataFormat: "yaml"
+blackfriday:
+  smartypantsQuotesNBSP: true
+  extensions:
+  - hardLineBreak
