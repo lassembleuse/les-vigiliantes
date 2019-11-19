@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Les Vigiliantes</title>
-    <link>https://lassembleuse.github.io/les-vigiliantes/pages/</link>
+    <link>http://www.vigiliantes.fr/pages/</link>
     <description>Recent content in Pages on Les Vigiliantes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate>
     
-	<atom:link href="https://lassembleuse.github.io/les-vigiliantes/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.vigiliantes.fr/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plaidoyer</title>
-      <link>https://lassembleuse.github.io/les-vigiliantes/pages/plaidoyer/</link>
+      <link>http://www.vigiliantes.fr/pages/plaidoyer/</link>
       <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
       
-      <guid>https://lassembleuse.github.io/les-vigiliantes/pages/plaidoyer/</guid>
+      <guid>http://www.vigiliantes.fr/pages/plaidoyer/</guid>
       <description>Cliquez sur le lien pour télécharger le plaidoyer des Vigiliantes :
 Télécharger le document  </description>
     </item>
