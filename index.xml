@@ -2,32 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page d&#39;accueil on Les Vigiliantes</title>
-    <link>http://www.vigiliantes.fr/</link>
+    <link>https://www.vigiliantes.fr/</link>
     <description>Recent content in Page d&#39;accueil on Les Vigiliantes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 12 Jul 2019 11:09:39 +0200</lastBuildDate>
     
-	<atom:link href="http://www.vigiliantes.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.vigiliantes.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second</title>
-      <link>http://www.vigiliantes.fr/article/second/</link>
+      <link>https://www.vigiliantes.fr/article/second/</link>
       <pubDate>Tue, 08 Oct 2019 18:45:08 +0200</pubDate>
       
-      <guid>http://www.vigiliantes.fr/article/second/</guid>
+      <guid>https://www.vigiliantes.fr/article/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plaidoyer</title>
-      <link>http://www.vigiliantes.fr/pages/plaidoyer/</link>
+      <link>https://www.vigiliantes.fr/pages/plaidoyer/</link>
       <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
       
-      <guid>http://www.vigiliantes.fr/pages/plaidoyer/</guid>
+      <guid>https://www.vigiliantes.fr/pages/plaidoyer/</guid>
       <description>Cliquez sur le lien pour télécharger le plaidoyer des Vigiliantes :
 Télécharger le document  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.vigiliantes.fr/events/2019/20191124-grande-synthe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/events/2019/20191124-grande-synthe/</guid>
+      <description></description>
     </item>
     
   </channel>

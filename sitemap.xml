@@ -3,37 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.vigiliantes.fr/article/</loc>
+    <loc>https://www.vigiliantes.fr/article/</loc>
     <lastmod>2019-10-08T18:45:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.vigiliantes.fr/article/second/</loc>
+    <loc>https://www.vigiliantes.fr/article/second/</loc>
     <lastmod>2019-10-08T18:45:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.vigiliantes.fr/pages/</loc>
+    <loc>https://www.vigiliantes.fr/pages/</loc>
     <lastmod>2019-08-01T13:17:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.vigiliantes.fr/pages/plaidoyer/</loc>
+    <loc>https://www.vigiliantes.fr/pages/plaidoyer/</loc>
     <lastmod>2019-08-01T13:17:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.vigiliantes.fr/</loc>
+    <loc>https://www.vigiliantes.fr/</loc>
     <lastmod>2019-07-12T11:09:39+02:00</lastmod>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>http://www.vigiliantes.fr/categories/</loc>
+    <loc>https://www.vigiliantes.fr/events/2019/20191124-grande-synthe/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.vigiliantes.fr/tags/</loc>
+    <loc>https://www.vigiliantes.fr/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vigiliantes.fr/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vigiliantes.fr/tags/</loc>
   </url>
   
 </urlset>
