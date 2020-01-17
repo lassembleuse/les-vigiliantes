@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<section class="section ">
+  <div class="container">
+  <h1 class="title is-size-1 has-text-centered">{{ .Title }}</h1>
+    <div class="columns is-vcentered ">
+      {{ with .Params.picture }}
+        <div class="column is-half has-text-centered">
+          {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+          {{ $pic := $imageResource.Resize "x600"}}
+          <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+        </div>
+      {{ end }}
+      <div class="column">
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <div class="notification my-5">
+          <p class="has-text-weight-bold">{{.Params.eventReadableDate}}, {{.Params.eventReadableTime}}<p>
+          <p class="">{{.Params.locationStreet}}<p>
+          <p class="">{{.Params.locationCity}}<p>
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}

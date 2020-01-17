@@ -1,0 +1,17 @@
+
+  <div class="card is-flex mb-3">
+    <div class="card-image">
+      {{ with .Params.picture }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $pic := $imageResource.Resize "x200"}}
+        <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+      {{ end }}
+
+    </div>
+    <div class="card-content">
+      <h4 class="is-size-4 title">
+        <a class="" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h4>
+      <p class="subtitle">{{ .Params.eventReadableDate }} - {{ .Params.locationCity }}</p>
+    </div>
+  </div>

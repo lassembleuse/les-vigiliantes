@@ -2,43 +2,40 @@
 <main aria-role="main">
   <section class="section">
     <div class="container">
-      <div class="has-text-centered">
-        {{ with .Params.picture }}
-            {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-            {{ $pic := $imageResource.Resize "600x"}}
-            <img src="{{ $pic.Permalink }}" alt="Photo {{$.Title }}">
-        {{ end }}
+      <h1 class="title is-size-1 has-text-centered">Prochain rendez-vous</h1>
+
+
+      {{ $events := where .Site.RegularPages "Type" "events" }}
+      {{ range first 1 $events }}
+        <div class="columns is-vcentered ">
+          {{ with .Params.picture }}
+            <div class="column is-half has-text-centered">
+              {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+              {{ $pic := $imageResource.Resize "x600"}}
+              <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+            </div>
+          {{ end }}
+          <div class="column">
+            <div class="content">
+              <h1 class="title is-size-3 has-text-centered">{{ .Title }}</h1>
+              {{ .Content }}
+            </div>
+            <div class="notification my-5">
+              <p class="has-text-weight-bold">{{.Params.eventReadableDate}}, {{.Params.eventReadableTime}}<p>
+              <p class="">{{.Params.locationStreet}}<p>
+              <p class="">{{.Params.locationCity}}<p>
+            </div>
+            {{ $rdvs := .Site.GetPage "/events" }}
+
+            <a class="button is-primary is-pulled-right mt-5" href="{{ $rdvs.Permalink }}">
+              Voir tous les rendez-vous
+            </a>
+
+          </div>
+        </div>
+      {{ end }}
       </div>
     </div>
   </section>
-  <section class="section ">
-    <div class="container">
-      <!-- section : {{ .Section }}
-      <br>
-      kind : {{ .Kind }}
-      <br>
-      type : {{ .Type }}
-      <br><br> -->
-      <div class="content">
-        {{ .Content }}
-      </div>
-    </div>
-  </section>
-  <!-- <section class="hero is-light is-bold is-medium">
-    <div class="hero-body">
-      <div class="container">
-        <h1 class="title is-spaced">
-          {{ .Title }}
-        </h1>
-      </div>
-    </div>
-  </section>
-  <section class="section">
-    <div class="container">
-      {{- range first 10 .Data.Pages }}
-        {{ .Render "card"}}
-      {{- end }}
-    </div>
-  </section> -->
 </main>
 {{ end }}
