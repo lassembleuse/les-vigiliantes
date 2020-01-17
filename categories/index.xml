@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Site de demonstration</title>
-    <link>https://lassembleuse.github.io/hugo-starter/categories/</link>
-    <description>Recent content in Categories on Site de demonstration</description>
+    <title>Categories on Les Vigiliantes</title>
+    <link>https://www.vigiliantes.fr/categories/</link>
+    <description>Recent content in Categories on Les Vigiliantes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://lassembleuse.github.io/hugo-starter/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.vigiliantes.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
