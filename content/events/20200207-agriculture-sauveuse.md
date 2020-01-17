@@ -8,7 +8,7 @@ locationCity: "22100 Lanvallay"
 picture: "/uploads/affiche07.02.20.jpg"
 ---
 
-Echange autour du rôle que peut jouer l'agriculture dans le cadre du changement climatique, avec Jacques Caplat, agronome.
+Echange autour du rôle que peut jouer l'agriculture dans le cadre du changement climatique, avec [Jacques Caplat](http://www.changeonsdagriculture.fr/jacques-caplat-en-bref-p793258), agronome, ethnologue, et écrivain.
 
 - Marché de paysans locaux de 16h à 19h
 - Conférence à 19h
