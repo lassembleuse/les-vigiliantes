@@ -2,8 +2,8 @@
 
 <section class="section ">
   <div class="container">
-  <h1 class="title is-size-1 has-text-centered">{{ .Title }}</h1>
-    <div class="columns is-vcentered ">
+    <h1 class="title is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
+    <div class="columns mt-5">
       {{ with .Params.picture }}
         <div class="column is-half has-text-centered">
           {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
@@ -21,6 +21,13 @@
           <p class="">{{.Params.locationCity}}<p>
           </div>
       </div>
+    </div>
+    <div class="has-text-centered">
+      {{ with .Params.photo }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $pic := $imageResource.Resize "x600"}}
+        <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+      {{ end }}
     </div>
   </div>
 </section>
