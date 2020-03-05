@@ -6,8 +6,8 @@
 
 
       {{ $events := where .Site.RegularPages "Type" "events" }}
-      {{ range first 1 $events }}
-        <div class="columns is-vcentered ">
+      {{ range first 1 ($events.ByParam "eventDate").Reverse }}
+        <div class="columns is-vcentered mt-5">
           {{ with .Params.picture }}
             <div class="column is-half has-text-centered">
               {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
@@ -20,7 +20,7 @@
               <h1 class="title is-size-3 has-text-centered">{{ .Title }}</h1>
               {{ .Content }}
             </div>
-            <div class="notification my-5">
+            <div class="notification mb-5">
               <p class="has-text-weight-bold">{{.Params.eventReadableDate}}, {{.Params.eventReadableTime}}<p>
               <p class="">{{.Params.locationStreet}}<p>
               <p class="">{{.Params.locationCity}}<p>

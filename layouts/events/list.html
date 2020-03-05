@@ -5,7 +5,7 @@
     <h1 class="title is-size-1">{{ .Title }}</h1>
     <p class="mb-5">Les événements que les Vigiliantes organise ou auxquels le collectif participe.</p>
       {{ $events := where .Site.RegularPages "Type" "events" }}
-      {{ range $index, $element := $events }}
+      {{ range $index, $element := ($events.ByParam "eventDate").Reverse }}
         {{ .Render "card"}}
       {{ end }}
   </div>

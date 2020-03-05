@@ -7,5 +7,4 @@ menu:
   footer:
     name: Accueil
     weight: 1
-picture: "/uploads/affiche06.12.19.jpg"
 ---
