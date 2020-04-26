@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+  <div class="columns">
+    <div class="column is-3 has-background-primary">
+    <section class="section ">
+      <aside class="menu">
+        <ul class="menu-list">
+        {{ $current := . }}
+        {{ $chiffres := where .Site.RegularPages "Type" "chiffres" }}
+        {{ range $index, $element := $chiffres }}
+          {{ $active := eq .Page $current }}
+          <li>
+            <a href="{{ .Permalink }}" class="{{ if $active }} is-active {{ end }}" href="">{{.Title}}</a>
+          </li>
+          {{ end }}
+        </ul>
+        
+        </ul>
+      </aside>
+      </section>
+    </div>
+
+    <div class="column is-9">
+      <section class="section ">
+        <div class="container">
+          <h1 class="title is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
+          <div class="columns mt-5">
+            <div class="column">
+              <div class="content">
+                {{ .Content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  {{ end }}

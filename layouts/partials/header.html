@@ -22,7 +22,7 @@
             {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
             {{ $active = or $active (eq .Page $current) }}
             {{ $text := print .Name | safeHTML }}
-            <a class="navbar-item {{ if $active }}active{{ end }}" href="{{ .URL }}">{{ $text }}</a>
+            <a class="navbar-item {{ if $active }} is-active {{ end }}" href="{{ .Permalink }}">{{ $text }}</a>
           {{ end }}
         </div>
       </div>
