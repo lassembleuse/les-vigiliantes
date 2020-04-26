@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.vigiliantes.fr/chiffres/generalites/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vigiliantes.fr/chiffres/glossaire/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.vigiliantes.fr/article/</loc>
     <lastmod>2019-10-08T18:45:08+02:00</lastmod>
   </url>
@@ -48,6 +56,10 @@
   
   <url>
     <loc>https://www.vigiliantes.fr/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.vigiliantes.fr/chiffres/</loc>
   </url>
   
   <url>

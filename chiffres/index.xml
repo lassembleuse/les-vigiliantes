@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiffres on Les Vigiliantes</title>
+    <link>https://www.vigiliantes.fr/chiffres/</link>
+    <description>Recent content in Chiffres on Les Vigiliantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://www.vigiliantes.fr/chiffres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Généralités</title>
+      <link>https://www.vigiliantes.fr/chiffres/generalites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/chiffres/generalites/</guid>
+      <description> Sur le territoire de Dinan agglo, 52 % des émissions de gaz à effet de serres sont liés à l’agriculture. 1
+ Le territoire de l’Agglomération dinanaise absorbe seulement 13% des émissions globales du territoire. 2
+   Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018.
+↩ Source, Link.
+↩   </description>
+    </item>
+    
+    <item>
+      <title>Glossaire</title>
+      <link>https://www.vigiliantes.fr/chiffres/glossaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/chiffres/glossaire/</guid>
+      <description>Sigles  INRA : Institut National de Recherche Agronomique
+ IFEN : Institut Français de l&amp;rsquo;Environnement
+ MRAE : Mission Régionale d&amp;rsquo;Autorité Environnementale de Bretagne
+ PADD
+ PAEN : périmètre de protection des espaces agricoles et naturels périurbains
+ PAT : Projet Alimentaire Territorial. Prévus dans la loi d’avenir pour l’agriculture, l’alimentation et la forêt du 13 octobre 2014, les PAT s&amp;rsquo;appuient sur un diagnostic partagé et visent à donner un cadre stratégique et opérationnel à des actions partenariales autour de l&amp;rsquo;alimentation, sur un territoire.</description>
+    </item>
+    
+  </channel>
+</rss>
