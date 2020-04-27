@@ -2,8 +2,6 @@
 title: "Généralités"
 layout: chiffres
 weight: 1
-aliases:
-  - /chiffres/
 ---
 
 - Sur le territoire de Dinan agglo, **52 %** des émissions de gaz à effet de serres sont liés à l’agriculture. [^01]
@@ -13,4 +11,4 @@ aliases:
 
 
 [^01]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018.
-[^02]: Source, [Link](https://google.com).
+[^02]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018.

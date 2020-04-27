@@ -26,6 +26,18 @@
           <h1 class="title is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
           <div class="columns mt-5">
             <div class="column">
+              {{ with .Params.intro }}
+                <div class="intro px-5 mb-5 is-size-5 has-text-centered">{{ . | markdownify }}</div>
+              {{ end }}
+              {{ if isset .Params "questions" }}
+              <div class="notification content">
+                <ul class="mb-3">
+                {{ range .Params.questions }}
+                  <li> {{ . }} </li>
+                {{ end }}
+                </ul>
+              </div>
+              {{ end }}
               <div class="content">
                 {{ .Content }}
               </div>
