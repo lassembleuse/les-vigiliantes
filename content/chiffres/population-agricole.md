@@ -5,6 +5,7 @@ intro:  |-
   L'enjeu est d'augmenter la population agricole et empêcher la disparition d’un quart des agriculteurs d’ici dix ans. 
 
   Objectif : des fermes nombreuses et diversifiées pour une production agricole résiliente.
+enjeu: Augmenter la population agricole
 questions: 
   - Quelle est l'évolution de la population agricole ? 
   - Quel est l'âge des agriculteurs sur le territoire ?
@@ -26,18 +27,6 @@ weight: 2
 - Chefs d'exploitation : **1382** en 2015 (contre 1 719 en 2002) [^09]
 - Aujourd’hui, les plus de 55 ans représentent 31 % de l'ensemble des chefs d’exploitation, les plus de 50 ans représentent 52%. **D'ici 2030-2035, l’avenir de plus de la moitié des exploitations agricoles du territoire est à prévoir**. [^10]
 
-### Exploitations en bio
-
-- Le territoire intercommunal compte **40 producteurs** en agriculture biologique dans des productions assez différenciées. [^12]
-- Ils représentent environ **5 % des exploitations**. Cette donnée est comparable à la moyenne départementale qui s’établit à 6 %, mais est légèrement inférieure à la donnée régionale qui est de 8%. [^13]
-- Types d’ateliers :
-  - 13 exploitations avec un atelier de production laitière
-  - 8 exploitations avec un atelier de production de viande bovine
-  - 8 exploitations avec un atelier de production porcine
-  - 7 exploitations avec un atelier de production de fruits
-  - 5 exploitations avec un atelier de production d'ovins/caprins [^14]
-
-- Sur les 40 exploitations en production biologique, au moins **15** vendent tout ou partie de leur production en vente directe. Au moins **10** transforment eux-mêmes une partie de leur production. [^15]
 
 
 [^01]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
@@ -51,7 +40,3 @@ weight: 2
 [^09]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
 [^10]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
 [^11]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
-[^12]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
-[^13]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
-[^14]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).
-[^15]: Données Cahier de l'Agriculture du PLUI, janvier 2020. [Lien](http://www.dinan-agglomeration.fr/Urbanisme-habitat-mobilite/Urbanisme/Plan-Local-d-Urbanisme-intercommunal-PLUI).

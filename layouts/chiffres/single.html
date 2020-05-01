@@ -31,6 +31,10 @@
               {{ end }}
               {{ if isset .Params "questions" }}
               <div class="notification content">
+                <p>
+                  <span class="has-text-weight-bold">L'enjeu : </span>
+                  {{ .Params.enjeu }}
+                </p>
                 <ul class="mb-3">
                 {{ range .Params.questions }}
                   <li> {{ . }} </li>

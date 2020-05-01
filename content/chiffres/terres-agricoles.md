@@ -5,6 +5,7 @@ intro:  |-
   Objectif zéro artificialisation nette ! 
   
   Seul moyen de mettre un terme à la disparition des sols périurbains fertiles, indispensables à la résilience alimentaire des villes.
+enjeu: Préserver les terres agricoles
 questions: 
   - Quelle surface artificialisée par an et par habitant ?
   - Quelle surface artificialisée par ménage et emploi accueillis ?

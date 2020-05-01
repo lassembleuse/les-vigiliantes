@@ -1,7 +1,7 @@
 ---
 title: "Glossaire"
 layout: chiffres
-weight: 8
+weight: 15
 ---
 
 ## Sigles
