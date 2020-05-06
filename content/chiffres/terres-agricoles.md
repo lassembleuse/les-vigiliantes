@@ -22,7 +22,7 @@ weight: 3
 
 ### Artificialisation
 
-- Entre 20017 et 2017 :
+- Entre 2007 et 2017 :
   - 465 ha artificialisés pour le l'habitat dans Dinan agglo 
   - + 3923 ménages sur le territoire
   - soit 1186 m2 artificialisé par ménage 
