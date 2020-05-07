@@ -12,7 +12,7 @@ weight: 1
 
 ## National
 
-- Le degré d’autonomie alimentaire moyen des 100 premières aires urbaines françaises est seulement de 2,1% [^03]
+- Le degré d’autonomie alimentaire moyen des 100 premières aires urbaines françaises est seulement de **2,1%** [^03]
 
 
 [^01]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018.
