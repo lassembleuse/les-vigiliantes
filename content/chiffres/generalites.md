@@ -16,4 +16,5 @@ weight: 1
 
 
 [^01]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018.
-[^02]: Etude Autonomie alimentaire des villes, cabinet Utopies, mai 2017. [lien](http://preprod.utopies.zagett-projects.com/wp-content/uploads/2019/12/autonomie-alimentaire-des-villes-notedeposition12.pdf)
+[^02]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018.
+[^03]: Etude Autonomie alimentaire des villes, cabinet Utopies, mai 2017. [lien](http://preprod.utopies.zagett-projects.com/wp-content/uploads/2019/12/autonomie-alimentaire-des-villes-notedeposition12.pdf)
