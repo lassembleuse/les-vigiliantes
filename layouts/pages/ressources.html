@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <h1 class="title is-size-1">{{ .Title }}</h1>
+    <div class="tabs">
+      <ul>
+        <li><a href="#livres">Livres</a></li>
+        <li><a href="#livres-jeunesse">Livres jeunesses</a></li>
+        <li><a href="#bandes-dessinees">Bandes dessinées</a></li>
+        <li><a href="#films">Films</a></li>
+        <li><a href="#videos">Vidéos</a></li>
+        <li><a href="#radio">Radio</a></li>
+        <li><a href="#podcasts">Podcasts</a></li>
+        <li><a href="#revues">Revues</a></li>
+        <li><a href="#jeux">Jeux</a></li>
+        <li><a href="#spectacle">Spectacle</a></li>
+        <li><a href="#sites-et-applications">Sites et applications</a></li>
+      </ul>
+    </div>
+    <div class="content">
+    {{ .Content }}
+    </div>
+    <span><a class="button back-top-button" href="#">Retour en haut</a></span>
+  </div>
+</section>
+
+{{ end }}

@@ -1,6 +1,7 @@
 ---
 date: '2019-08-01T13:17:31.000+00:00'
 title: "Ressources"
+layout: ressources
 menu:
   main:
     weight: 4
@@ -8,14 +9,6 @@ menu:
     weight: 4
 ---
 
-<div class="tabs">
-  <ul>
-    <li><a href="livres">Livres</a></li>
-    <li><a href="films">Films</a></li>
-    <li><a href="livres">Livres jeunesses</a></li>
-    <li><a href="livres">Documents</a></li>
-  </ul>
-</div>
 
 ## Livres
 
@@ -150,21 +143,6 @@ menu:
 - Ma petite planète verte (enfance jeunesse)
 - Le peuple des forets (enfance jeunesse)
 
-## Jeux
-
-- Cardline animaux
-
-## Spectacle
-
-Piéce de théâtre Maison Renard. Alexandre Dewez
-
-
-## Revues
-
-- Kaizen
-- Yggdrasil
-
-
 ## Vidéos
 
 - Un avenir sans pétrole. Pablo Servigne, YT
@@ -186,7 +164,7 @@ Piéce de théâtre Maison Renard. Alexandre Dewez
 - www.civam.org/systemesalimentaires
 - Facebook. La suite du monde
 
-## Emissions radio
+## Radio
 
 - France culture :
   - Le cours de l'histoire / L'histoire en vert «La nature et le capital»
@@ -202,3 +180,27 @@ Piéce de théâtre Maison Renard. Alexandre Dewez
 
 - [Floraisons](https://floraisons.blog/podcasts/) : "Pour un mouvement de résistance écologiste, libertaire, féministe et antiraciste"
 - [Emergences](https://imagotv.fr/podcasts/emergences) : "Émergences met en avant les acteurs d’une société plus locale, plus collaborative et moins énergivore. Dans chaque épisode, l'occasion de donner des clefs et des conseils pour facilement changer nos habitudes au quotidien, à travers les témoignages et le parcours des bâtisseurs du monde de demain."
+
+## Revues
+
+- Kaizen
+- Yggdrasil
+
+## Jeux
+
+- Cardline animaux
+
+## Spectacle
+
+- Pièce de théâtre Maison Renard. Alexandre Dewez
+
+## Sites et applications
+
+ - [Parcel](https://parcel-app.org/) : outil créé par Terre de Liens pour visualiser les surfaces agricoles nécessaires pour se nourrir localement
+ - [Crater](https://app.resiliencealimentaire.org), calculateur de résilience alimentaire territoriale par les Greniers d’Abondance
+
+
+
+
+
+
