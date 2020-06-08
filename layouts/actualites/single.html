@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<section class="section ">
+  <div class="container">
+    <h1 class="title is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
+    {{ with .Params.picture }}
+      <div class="has-text-centered my-5">
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $pic := $imageResource.Resize "x600"}}
+        <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+      </div>
+    {{ end }}
+      <div class="column">
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+    <div class="has-text-centered">
+      {{ with .Params.photo }}
+        {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+        {{ $pic := $imageResource.Resize "x600"}}
+        <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+
+{{ end }}

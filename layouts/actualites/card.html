@@ -1,0 +1,31 @@
+<div class="card">
+  <div class="card-image">
+    {{ with .Params.picture }}
+      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+      {{ $pic := $imageResource.Fill "400x300"}}
+      <figure class="image is-4by3">
+        <a href="{{ $.RelPermalink }}">
+          <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
+        </a>
+      </figure>
+    {{ end }}
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <h4 class="title is-4">
+          <a class="" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h4>
+        <p class="subtitle is-6">
+          <time datetime="{{ dateFormat "2006-01-02" .Date }}">
+            {{ .Date.Day }} {{ index $.Site.Data.mois.short (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+          </time>
+        </p>
+      </div>
+    </div>
+
+    <div class="content">
+      {{ .Summary }}
+    </div>
+  </div>
+</div>

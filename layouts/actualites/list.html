@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+  <section class="section">
+    <div class="container">
+      <h1 class="title is-size-1">{{ .Title }}</h1>
+      {{ $events := where .Site.RegularPages "Type" "actualites" }}
+      <div class="columns">
+        {{ range $index, $element := ($events.ByParam "Date").Reverse }}
+          <div class="column is-one-quarter">
+            {{ .Render "card"}}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}

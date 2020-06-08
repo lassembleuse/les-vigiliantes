@@ -1,14 +1,15 @@
-baseURL: https://www.vigiliantes.fr 
+baseURL: https://www.vigiliantes.fr
 languageCode: fr-fr
 title: Les Vigiliantes
 theme: bulma-theme
 DefaultContentLanguage: fr
 metaDataFormat: "yaml"
+removePathAccents: true
 blackfriday:
   smartypantsQuotesNBSP: true
   extensions:
   - hardLineBreak
-footnoteReturnLinkContents: "↩" 
+footnoteReturnLinkContents: "↩"
 
 menu:
   main:
@@ -18,3 +19,6 @@ menu:
   - identifier: Ressources
     name: Ressources
     weight: 100
+
+permalinks:
+  actualites: /:year/:month/:title/
