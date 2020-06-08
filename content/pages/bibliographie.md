@@ -181,15 +181,17 @@ menu:
 
 - [Floraisons](https://floraisons.blog/podcasts/) : "Pour un mouvement de résistance écologiste, libertaire, féministe et antiraciste"
 - [Emergences](https://imagotv.fr/podcasts/emergences) : "Émergences met en avant les acteurs d’une société plus locale, plus collaborative et moins énergivore. Dans chaque épisode, l'occasion de donner des clefs et des conseils pour facilement changer nos habitudes au quotidien, à travers les témoignages et le parcours des bâtisseurs du monde de demain."
+- [Bons plants](https://soundcloud.com/bonsplants) : "Le podcast de l'agriculture en ville, et du renouveau végétal urbain."
 
 ## Revues
 
-- Kaizen
-- Yggdrasil
+- [Kaizen](https://kaizen-magazine.com/)
+- [Yggdrasil](https://yggdrasil-mag.com/)
+- [Reporterre](https://reporterre.net/)
 
 ## Jeux
 
-- Cardline animaux
+- [Cardline animaux](https://fr.asmodee.com/fr/games/cardline/products/cardline-animaux/)
 
 ## Spectacle
 
