@@ -7,4 +7,5 @@ menu:
   footer:
     name: Accueil
     weight: 1
+picture: "/uploads/CarteVoeux2.jpg"
 ---
