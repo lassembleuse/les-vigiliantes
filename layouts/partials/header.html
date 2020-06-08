@@ -19,10 +19,30 @@
         <div class="navbar-end">
           {{ $current := . }}
           {{ range .Site.Menus.main }}
-            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
-            {{ $active = or $active (eq .Page $current) }}
-            {{ $text := print .Name | safeHTML }}
-            <a class="navbar-item {{ if $active }} is-active {{ end }}" href="{{ .URL }}">{{ $text }}</a>
+
+            {{ if .HasChildren }}
+
+
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link {{ if $current.HasMenuCurrent "main" . }}is-active{{ end }}">
+                  {{ .Name }}
+                </a>
+
+                <div class="navbar-dropdown">
+                  {{ range .Children }}
+                    <a href="{{ .URL }}" class="navbar-item {{ if $current.IsMenuCurrent "main" . }}is-active{{ end }}">
+                      {{ .Name }}
+                    </a>
+                  {{ end }}
+                </div>
+              </div>
+            {{ else }}
+              {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+              {{ $active = or $active (eq .Page $current) }}
+              {{ $text := print .Name | safeHTML }}
+
+              <a class="navbar-item {{ if $active }} is-active {{ end }}" href="{{ .URL }}">{{ $text }}</a>
+            {{ end }}
           {{ end }}
         </div>
       </div>

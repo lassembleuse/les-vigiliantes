@@ -1,7 +1,11 @@
 ---
 date: '2020-06-01T13:17:31.000+00:00'
-title: "Le manifeste des Vigiliantes"
+title: "Manifeste"
 subtitle: “Se nourrir et prendre soin de la terre”
+menu:
+  main:
+    weight: 2
+    parent: "Qui sommes-nous"
 ---
 
 ## QUI SOMMES NOUS
