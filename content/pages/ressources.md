@@ -87,7 +87,7 @@ menu:
 - Anent nouvelles des indiens jivaros . Alessandro Pignocchi
 - petit traité d'écologie sauvage.Alessandro Pignocchi
 - La cosmologie du futur.Alessandro Pignocchi
-- Algues vertes, l'histoire interdite. Inès Lesand, Pierre Van Hove
+- Algues vertes, l'histoire interdite. Inès Léraud, Pierre Van Hove
 - Thoreau et moi. Cédric Taling
 - The End. Zep
 - Le signal de l'océan. Saint Dizier, Joub, Nicoby
