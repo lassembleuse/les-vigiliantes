@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actualités on Les Vigiliantes</title>
+    <link>https://www.vigiliantes.fr/actualites/</link>
+    <description>Recent content in Actualités on Les Vigiliantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.vigiliantes.fr/actualites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Carte Producteurs confinés Pays de Dinan</title>
+      <link>https://www.vigiliantes.fr/2020/03/carte-producteurs-confines-pays-de-dinan/</link>
+      <pubDate>Wed, 25 Mar 2020 18:45:08 +0200</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/2020/03/carte-producteurs-confines-pays-de-dinan/</guid>
+      <description>&lt;p&gt;Une carte pour rendre visible les nouveaux modes de distribution des producteurs locaux en période de confinement.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bonne année !</title>
+      <link>https://www.vigiliantes.fr/2020/01/bonne-annee/</link>
+      <pubDate>Wed, 01 Jan 2020 18:45:08 +0200</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/2020/01/bonne-annee/</guid>
+      <description>Les Vigiliantes vous souhaitent une bonne année 2020, pleine d&amp;rsquo;engagement et de collectif !</description>
+    </item>
+    
+  </channel>
+</rss>
