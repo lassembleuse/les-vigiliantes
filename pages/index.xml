@@ -6,23 +6,39 @@
     <description>Recent content in Pages on Les Vigiliantes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 13:17:31 +0000</lastBuildDate>
     
 	<atom:link href="https://www.vigiliantes.fr/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Plaidoyer</title>
-      <link>https://www.vigiliantes.fr/pages/plaidoyer/</link>
-      <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
+      <title>Manifeste</title>
+      <link>https://www.vigiliantes.fr/pages/manifeste/</link>
+      <pubDate>Mon, 01 Jun 2020 13:17:31 +0000</pubDate>
       
-      <guid>https://www.vigiliantes.fr/pages/plaidoyer/</guid>
-      <description>Cliquez sur le lien pour télécharger le plaidoyer des Vigiliantes :
-Télécharger le document  </description>
+      <guid>https://www.vigiliantes.fr/pages/manifeste/</guid>
+      <description>QUI SOMMES NOUS Un collectif de citoyennes et citoyens du pays de Dinan revolté·e·s par les effets dévastateurs du système libéral et capitaliste (saccage de la terre, montée des injustices sociales, des inégalités et des violences, mépris du travail artisanal et du travail de la terre) et dénonçant en particulier les effets dévastateurs de l’agriculture productiviste : impact sur les sols, l’eau, la santé, le chômage et le travail précaire, le climat, la biodiversité…</description>
     </item>
     
     <item>
-      <title>Qui sommes-nous</title>
+      <title>Bibliographie</title>
+      <link>https://www.vigiliantes.fr/pages/bibliographie/</link>
+      <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/pages/bibliographie/</guid>
+      <description>Livres  Graines d&amp;rsquo;une bretagne d&amp;rsquo;avenir. Emmanuel Antoine, Xavier Hamon
+ Pour une désobéissance créative. Vandana Shiva, Lionel Astruc
+ L&amp;rsquo;agroécologie, une éthique de vie. Pierre Rabhi, entretien avec Jacques Caplat
+ Changeons d&amp;rsquo;agriculture, réussir la transition. Jacques Caplat
+ L&amp;rsquo;agriculture biologique pour nourrir l&amp;rsquo;humanité. Jacques Caplat
+ Paysan résistant. Benoit Biteau
+ Solutions locales pour un désordre global. Coline Serreau
+ Vers une sobriété heureuse. Pierre Rabhi
+ Eloge du génie créateur de la société civile.</description>
+    </item>
+    
+    <item>
+      <title>Le collectif</title>
       <link>https://www.vigiliantes.fr/pages/qui-sommes-nous/</link>
       <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
       
@@ -34,20 +50,13 @@ Nos objectifs Faire du lien Faire du lien entre les projets d&amp;rsquo;installa
     </item>
     
     <item>
-      <title>Ressources</title>
-      <link>https://www.vigiliantes.fr/pages/ressources/</link>
+      <title>Plaidoyer</title>
+      <link>https://www.vigiliantes.fr/pages/plaidoyer/</link>
       <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
       
-      <guid>https://www.vigiliantes.fr/pages/ressources/</guid>
-      <description>Livres  Graines d&amp;rsquo;une bretagne d&amp;rsquo;avenir. Emmanuel Antoine, Xavier Hamon
- Pour une désobéissance créative. Vandana Shiva, Lionel Astruc
- L&amp;rsquo;agroécologie, une éthique de vie. Pierre Rabhi, entretien avec Jacques Caplat
- Changeons d&amp;rsquo;agriculture, réussir la transition. Jacques Caplat
- L&amp;rsquo;agriculture biologique pour nourrir l&amp;rsquo;humanité. Jacques Caplat
- Paysan résistant. Benoit Biteau
- Solutions locales pour un désordre global. Coline Serreau
- Vers une sobriété heureuse. Pierre Rabhi
- Eloge du génie créateur de la société civile.</description>
+      <guid>https://www.vigiliantes.fr/pages/plaidoyer/</guid>
+      <description>Cliquez sur le lien pour télécharger le plaidoyer des Vigiliantes :
+Télécharger le document  </description>
     </item>
     
   </channel>
