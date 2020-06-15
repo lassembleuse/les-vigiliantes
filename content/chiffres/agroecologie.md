@@ -28,7 +28,7 @@ weight: 8
 
 ## Indicateur Haute Valeur Naturelle
 
-L’indice de Haute Valeur Naturelle estime la capacité d’un territoire à accueillir la biodiversité sauvage. 
+L’indice de Haute Valeur Naturelle, noté sur 10, estime la capacité d’un territoire à accueillir la biodiversité sauvage.
 
 Pour Dinan agglo :
 - diversité des assolements (indique la variété des cultures présentes sur les fermes) : 6,06/10

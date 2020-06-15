@@ -24,3 +24,4 @@ weight: 15
 - **Loi EGAlim**
 - **Plan national pour la biodiversité** du 4 juillet 2018
 - **Plan climat-air-énergie territorial** (PCAET), lancé en 2018
+- **directive européenne cadre sur l'Eau** :  en 2000, les États de l'Union européenne se sont engagés d'ici 2027 à ce que 100 % de leurs eaux atteignent le « bon état »
