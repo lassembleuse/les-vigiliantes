@@ -4,7 +4,7 @@ eventDate: 2020-06-27T17:15:00Z
 eventReadableDate: "Samedi 27 juin 2020"
 eventReadableTime: "09h30 à 17h00"
 locationStreet: "Auberge de Jeunesse de Dinan"
-locationCity: "2 rue des quatre Moulins, 22100 - Dinan"
+locationCity: "2 rue des quatre Moulins, 22100 Dinan"
 picture: ""
 published: true
 ---
