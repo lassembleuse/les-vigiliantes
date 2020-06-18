@@ -29,19 +29,19 @@
         </p>
         <p>
           {{ with .Site.Data.global.email_organisation }}
-          <!--  <i class="far fa-envelope mr-1"></i> --> 
+          <i class="far fa-envelope mr-1"></i>
           <a href="mailto:{{ . }}">{{ . }}</a>
           {{ end }}
 
           {{ with .Site.Data.global.telephone_organisation }}
           <br>
-          <!--  <i class="fas fa-phone mr-1"></i> --> 
+          <i class="fas fa-phone mr-1"></i>
           <a href="tel:{{ . }}">{{ . }}</a>
           {{ end }}
 
           {{ with .Site.Data.global.facebook_organisation }}
           <br>
-          <!--  <i class="fab fa-facebook-f mr-1"></i> --> 
+          <i class="fab fa-facebook-f mr-1"></i>
           <a href="{{ . }}" target="_blank">Page facebook</a>
           {{ end }}
         </p>

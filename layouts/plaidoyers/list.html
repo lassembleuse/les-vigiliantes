@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container is-tablet-width">
+    <h1 class="title is-2 has-text-centered">
+      {{ .Title }}
+    </h1>
+    <div class=" mt-5">
+      {{ range $index, $element := .Pages }}
+        {{ .Render "card"}}
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+{{ end }}

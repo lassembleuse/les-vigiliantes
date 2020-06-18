@@ -1,0 +1,7 @@
+{{ $summary := .Get "summary" | default "Voir le détail" }}
+
+<details {{ with .Get "state"}} {{ . }} {{ end }}>
+  <summary> {{ $summary }}</summary>
+  <div>{{ .Inner  | markdownify }}</div>
+</details>
+

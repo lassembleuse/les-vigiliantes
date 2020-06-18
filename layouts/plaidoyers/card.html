@@ -1,0 +1,22 @@
+<div class="mb-5">
+  <h4 class="title is-4">
+    <a class="" href="{{ .RelPermalink }}">
+      {{ .Title }}
+    </a>
+  </h4>
+  <p class="subtitle is-6">
+    <time datetime="{{ dateFormat "2006-01-02" .Date }}">
+      {{ index $.Site.Data.mois.long (printf "%d" .Date.Month) | title }}
+      {{ .Date.Year }}
+    </time>
+  </p>
+  <div class="content is-marginless">
+    {{ .Summary}}
+    <span> [...] </span>
+  </div>
+  <div class="has-text-right">
+    <a class="button" href="{{ .RelPermalink }}">
+      lire la suite
+    </a>
+  </div>
+</div>

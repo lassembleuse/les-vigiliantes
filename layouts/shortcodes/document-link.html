@@ -1,6 +1,10 @@
-{{ with $.Page.Params.pdf }}
-{{ $doc := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+{{ if .Get "doc" }}
+
+{{ $text := .Get "text" | default "Télécharger le document" }}
+
+{{ $doc := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" (.Get "doc") ) }}
 <a target="_blank" href="{{ $doc.Permalink }}">
-   Télécharger le document
+<i class="fas fa-file-download"></i>
+   {{ $text }}
 </a>
 {{ end }}
