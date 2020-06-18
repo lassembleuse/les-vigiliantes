@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plaidoyers on Les Vigiliantes</title>
+    <link>https://www.vigiliantes.fr/plaidoyers/</link>
+    <description>Recent content in Plaidoyers on Les Vigiliantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.vigiliantes.fr/plaidoyers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plaidoyer PLUI</title>
+      <link>https://www.vigiliantes.fr/plaidoyers/201910_plaidoyer_plui/</link>
+      <pubDate>Tue, 15 Oct 2019 13:17:31 +0000</pubDate>
+      
+      <guid>https://www.vigiliantes.fr/plaidoyers/201910_plaidoyer_plui/</guid>
+      <description>&lt;p&gt;Ce premier plaidoyer a été envoyé à toutes les mairies de Dinan agglomération à l&amp;rsquo;automne 2019, en amont de la signature du Plan Local d&amp;rsquo;Urbanisme Intercommunal (PLUI) et du Plan Alimentation Territorial (PAT).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
