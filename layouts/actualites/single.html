@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <section class="section ">
-  <div class="container">
+  <div class="container is-tablet-width">
     <h1 class="title is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
     {{ with .Params.picture }}
       <div class="has-text-centered my-5">
@@ -11,7 +11,7 @@
       </div>
     {{ end }}
       <div class="column">
-        <div class="content">
+        <div class="content actualite-content">
           {{ .Content }}
         </div>
       </div>

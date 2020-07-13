@@ -12273,6 +12273,9 @@ label.panel-block {
   .pl-xl-5 {
     padding-left: 3rem; } }
 
+.actualite-content img {
+  max-width: 600px; }
+
 .back-top-button {
   position: fixed;
   right: 2rem;
