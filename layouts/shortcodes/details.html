@@ -1,7 +1,12 @@
 {{ $summary := .Get "summary" | default "Voir le détail" }}
+{{ $isMarkdown := .Get "markdown" | default "true" }}
 
 <details {{ with .Get "state"}} {{ . }} {{ end }}>
   <summary> {{ $summary }}</summary>
-  <div>{{ .Inner  | markdownify }}</div>
+  {{ if eq $isMarkdown "true" }}
+    <div>{{ .Inner | markdownify }}</div>
+  {{ else }}
+    <div>{{ .Inner }}</div>
+  {{ end }}
 </details>
 
