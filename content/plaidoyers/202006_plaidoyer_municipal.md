@@ -31,9 +31,10 @@ Sur l'agglomération, si nous avons le volume de terres agricoles suffisant pour
 En tant qu'élu·e, il est de votre devoir d'anticiper les crises probables[^09] et d'organiser la résilience alimentaire de votre territoire. 
 
 Cette responsabilité peut aussi être une opportunité pour :
-- créer un gisement important d'emplois durables et non délocalisables ;
-r- épondre à la demande sociale grandissante des familles soucieuses de vivre dans un environnement sain ; 
-- baisser les coûts des éco-externalités négatives liées à l'agriculture intensive et l'industrie agro-alimentaire (traitement de l'eau, santé, biodiversité, entretien des routes, ..).
+
+* créer un gisement important d'emplois durables et non délocalisables ;
+* répondre à la demande sociale grandissante des familles soucieuses de vivre dans un environnement sain ; 
+* baisser les coûts des éco-externalités négatives liées à l'agriculture intensive et l'industrie agro-alimentaire (traitement de l'eau, santé, biodiversité, entretien des routes, ..).
 
 Il est possible de "nourrir les hommes tout en guérissant la terre", et cette question doit devenir notre priorité. 
 
