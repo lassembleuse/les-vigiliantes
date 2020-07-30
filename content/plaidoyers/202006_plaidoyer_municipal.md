@@ -43,14 +43,15 @@ Mais aujourd'hui, nous sommes inquiètes et inquiets de la faible résilience al
 Afin de marquer votre prise en compte de cet enjeux, **nous vous invitons à nous faire part des mesures que vous comptez mettre en oeuvre dans le mandat qui s'ouvre pour assurer la résilience alimentaire sur votre territoire**.
 
 Ces mesures peuvent concerner un périmètre large de domaines : 
-* augmentation et formation de la population agricole
-* sauvegarde des terres agricoles sur le long terme
-* soutien à l'autonomisation technique et énergétique des fermes
-* diversification des cultures et semences
-* gestion durable de l'eau
-* développpement d'une agriculture régénératrice et nourricière
-* développement des capacités de stockage et de transformation
-* appui aux filières de distribution locales et aux commerces de proximité…
+
+- augmentation et formation de la population agricole
+- sauvegarde des terres agricoles sur le long terme
+- soutien à l'autonomisation technique et énergétique des fermes
+- diversification des cultures et semences
+- gestion durable de l'eau
+- développpement d'une agriculture régénératrice et nourricière
+- développement des capacités de stockage et de transformation
+- appui aux filières de distribution locales et aux commerces de proximité…
 
 Vous pouvez vous référez aux domaines répertoriés sur notre site internet[^10] ainsi que vous inspirer de solutions déjà mises en place ailleurs[^11] pour nourrir votre plan d'action. 
 
