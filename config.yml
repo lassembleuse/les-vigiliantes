@@ -5,11 +5,28 @@ theme: bulma-theme
 DefaultContentLanguage: fr
 metaDataFormat: "yaml"
 removePathAccents: true
-blackfriday:
-  smartypantsQuotesNBSP: true
+# blackfriday:
+#   smartypantsQuotesNBSP: true
+#   extensions:
+#   - hardLineBreak
+# footnoteReturnLinkContents: "↩"
+goldmark:
   extensions:
-  - hardLineBreak
-footnoteReturnLinkContents: "↩"
+    definitionList: true
+    footnote: true
+    linkify: true
+    strikethrough: true
+    table: true
+    taskList: true
+    typographer: true
+  parser:
+    attribute: true
+    autoHeadingID: true
+    autoHeadingIDType: github
+  renderer:
+    hardWraps: false
+    unsafe: false
+    xhtml: false
 
 menu:
   main:
