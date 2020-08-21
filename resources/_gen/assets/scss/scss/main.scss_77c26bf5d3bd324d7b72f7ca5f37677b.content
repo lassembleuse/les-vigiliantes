@@ -12293,6 +12293,10 @@ details {
     margin-bottom: 1.5rem;
     cursor: pointer; }
 
+.mailing-form {
+  margin-left: -20px;
+  margin-top: -20px; }
+
 .is-desktop-width {
   max-width: 1088px; }
 
