@@ -20,5 +20,7 @@ Pour en savoir plus :
 - [page facebook](https://www.facebook.com/incroyablescomestiblespleurtuit/)
 
 
+*Port du masque obligatoire, même en extérieur.*
+
 *Pour ces apéros, chacun amène ses ustensiles (couverts, assiettes, verres...).
 Nous nous chargeons de la nourriture et de la boisson à acheter sur place et servies à table.*

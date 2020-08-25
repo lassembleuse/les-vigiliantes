@@ -17,5 +17,7 @@ En septembre, on rencontre Joseph Argouarc'h, ancien maraîcher et formateur, qu
 
 Le Petit Bleu [parlait notamment de lui au début de l'été](https://actu.fr/bretagne/corseul_22048/a-dinan-les-beneficiaires-du-secours-populaire-mangent-les-legumes-qu-ils-cultivent_34481818.html).
 
+*Port du masque obligatoire, même en extérieur.*
+
 *Pour ces apéros, chacun amène ses ustensiles (couverts, assiettes, verres...).
 Nous nous chargeons de la nourriture et de la boisson à acheter sur place et servies à table.*

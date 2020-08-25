@@ -27,7 +27,7 @@ Deuxième rencontre inter-structures nourricières ([voir le compte-rendu de la 
 
 Midi : repas partagé, amenez votre nourriture et vos couverts.
 
-Sur inscription : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
+Sur **inscription** : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
 
 ## Dimanche 13 septembre
 
@@ -35,9 +35,13 @@ Sur inscription : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
 "Les semences paysannes au potager" avec Olivier Garnier de l'association "Koal Kozh".
 
 Inscription 5€, gratuit pour les moins de 12 ans.
-Réservation sur [causonsjardin@gmail.com](mailto:causonsjardin@gmail.com)
+
+**Réservation** sur [causonsjardin@gmail.com](mailto:causonsjardin@gmail.com)
 
 ### 14h - 17h
 Table ronde "Territoire de Dinan : chantiers possibles pour les terres nourricières ?"
 
-Sur inscription : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
+Sur **inscription** : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
+
+
+*Port du masque obligatoire, même en extérieur.*

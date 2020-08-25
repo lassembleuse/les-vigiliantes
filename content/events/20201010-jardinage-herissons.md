@@ -15,12 +15,15 @@ Une journée dans le jardin de l'Auberge de Jeunesse en compagnie des membres du
 
 Repas partagé, chacun amène ses ustensiles.
 
+*Port du masque obligatoire, même en extérieur.*
+
 **Participation de 50€ par personne, règlement sur place.**
 
 **Inscription au 06 78 75 47 32.**
 
 
 Pour en savoir plus :
+
 - [Site du Jardin des Hérissons](https://jardindesherissons.wixsite.com/jardin-des-herissons)
 - [page facebook](https://www.facebook.com/lejardindesherissons/)
 
