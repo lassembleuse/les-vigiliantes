@@ -29,7 +29,7 @@ Avec eux, nous explorerons les multiples facettes de la résilience alimentaire 
 
 Deuxième rencontre inter-structures nourricières ([voir le compte-rendu de la première rencontre](https://www.vigiliantes.fr/2020/07/journee-inter-association-alimentation/)).
 
-Une nouvelle (demi-)journée professionnelle pour continuer à construire collectivement une filière alimentaire saine, accessible et durable sur notre territoire.
+Une nouvelle demi-journée professionnelle pour continuer à construire collectivement une filière alimentaire saine, accessible et durable sur notre territoire.
 
 Au programme : continuer à avancer autour des 3 chantiers identifiés durant la première journée :
 1. l’accès au foncier
