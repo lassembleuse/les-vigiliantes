@@ -19,13 +19,22 @@ Durant tout un week-end, venez vivre et faire vivre l'autonomie alimentaire de l
 
 ## Vendredi 11 septembre, 20h30
 
-Conférence avec les Greniers d'Abondance : "La résilience alimentaire" de notre territoire.
+L'association [les Greniers d'Abondance](https://resiliencealimentaire.org/) est auteure d'un [excellent ouvrage pratique](https://resiliencealimentaire.org/page-telechargement-guide/) sur la résilience alimentaire.
 
-## Samedi 12 septembre, 9h30 - 16h
+Avec eux, nous explorerons les multiples facettes de la résilience alimentaire et les leviers pour la développer sur les territoires.
+
+*Entrée à prix libre et conscient.*
+
+## Samedi 12 septembre, 9h - 13h
 
 Deuxième rencontre inter-structures nourricières ([voir le compte-rendu de la première rencontre](https://www.vigiliantes.fr/2020/07/journee-inter-association-alimentation/)).
 
-Midi : repas partagé, amenez votre nourriture et vos couverts.
+Une nouvelle (demi-)journée professionnelle pour continuer à construire collectivement une filière alimentaire saine, accessible et durable sur notre territoire.
+
+Au programme : continuer à avancer autour des 3 chantiers identifiés durant la première journée :
+1. l’accès au foncier
+2. l'organisation/coordination des producteurs
+3. accès à (une saine) alimentation pour tou.te.s
 
 Sur **inscription** : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
 
@@ -40,6 +49,8 @@ Inscription 5€, gratuit pour les moins de 12 ans.
 
 ### 14h - 17h
 Table ronde "Territoire de Dinan : chantiers possibles pour les terres nourricières ?"
+
+Discussions autour des plans d'actions et des propositions qui auront émergé la veille, en présence d'élus.
 
 Sur **inscription** : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
 

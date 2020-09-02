@@ -19,6 +19,7 @@ Pour en savoir plus :
 - [page sur le site de la ville de Pleurtuit](https://www.pleurtuit.com/incroyables-comestibles-pleurtuit/)
 - [page facebook](https://www.facebook.com/incroyablescomestiblespleurtuit/)
 
+*Entrée à prix libre et conscient.*
 
 *Port du masque obligatoire, même en extérieur.*
 
