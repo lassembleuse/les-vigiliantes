@@ -41,7 +41,9 @@ Sur **inscription** : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
 ## Dimanche 13 septembre
 
 ### 10h - 12h ou 14h - 16h
-"Les semences paysannes au potager" avec Olivier Garnier de l'association "Koal Kozh".
+Atelier "Les semences paysannes au potager" 
+
+Deux créneaux possibles pour l'atelier mené par Olivier Garnier, des associations "Causons jardins" et “[Koal Kozh](http://kaolkozh.bzh/)", autour des semences paysannes : caractéristiques de ces semences, modalités de récolte et de conservation, dégustation...
 
 Inscription 5€, gratuit pour les moins de 12 ans.
 
