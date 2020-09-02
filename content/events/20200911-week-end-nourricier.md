@@ -32,6 +32,7 @@ Deuxième rencontre inter-structures nourricières ([voir le compte-rendu de la 
 Une nouvelle demi-journée professionnelle pour continuer à construire collectivement une filière alimentaire saine, accessible et durable sur notre territoire.
 
 Au programme : continuer à avancer autour des 3 chantiers identifiés durant la première journée :
+
 1. l’accès au foncier
 2. l'organisation/coordination des producteurs
 3. accès à (une saine) alimentation pour tou.te.s
