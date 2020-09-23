@@ -2,7 +2,7 @@
 title: "Week-end nourricier, le compte-rendu"
 date: 2020-09-11T18:45:08+02:00
 draft: false
-picture: "/uploads/20200627_rencontre01.jpeg"
+picture: "/uploads/IMG_20200913_112743.jpg"
 ---
 
 Compte-rendu du [week-end nourricier](https://www.vigiliantes.fr/events/20200911-week-end-nourricier/) du 11, 12, 13 juin 2020.
