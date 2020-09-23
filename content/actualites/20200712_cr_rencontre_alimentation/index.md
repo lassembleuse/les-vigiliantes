@@ -1,5 +1,5 @@
 ---
-title: "Journée inter association alimentation"
+title: "Journée inter association alimentation, le compte-rendu"
 date: 2020-07-12T18:45:08+02:00
 draft: false
 picture: "/uploads/20200627_rencontre01.jpeg"
