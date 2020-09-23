@@ -4,7 +4,7 @@
     <div class="container">
       <h1 class="title is-size-1">{{ .Title }}</h1>
       {{ $events := where .Site.RegularPages "Type" "actualites" }}
-      <div class="columns">
+      <div class="columns is-multiline">
         {{ range $index, $element := ($events.ByParam "Date").Reverse }}
           <div class="column is-one-third">
             {{ .Render "card"}}
