@@ -1,7 +1,7 @@
 ---
 title: "Lettre à celles et ceux qui pensent que l'agriculture bio ne pourra jamais nous nourrir"
 subtitle: "En réponse à un adjoint de la ville de Trévron"
-date: 2021-01-22 T18:45:08+02:00
+date: 2021-01-22T18:45:08+02:00
 draft: false
 picture: 
 ---
