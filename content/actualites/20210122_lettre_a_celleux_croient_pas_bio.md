@@ -8,7 +8,7 @@ picture:
 
 En décembre dernier, Mr Incrédule, 1er adjoint de Trévron, justifie [dans Ouest France](https://www.ouest-france.fr/bretagne/trevron-22100/trevron-la-commune-n-adhere-pas-au-syndicat-mixte-du-pnr-7101813) le refus de sa commune d'adhérer au syndicat mixte du PNR notamment parce qu'il ne croit pas en l'agriculture biologique et ne veut pas voir de contraintes supplémentaires s'imposer aux agriculteurs de son territoire.
 
-> "Ici, les agriculteurs ont fait énormément d’efforts depuis vingt ans dans tous les domaines. Avec la population, nous voulons garder la maîtrise de notre développement, sans se surcharger encore de normes et contraintes qui nous étouffent déjà. Il est aussi insupportable que l’on oppose en permanence l’agriculture traditionnelle qui est vertueuse aujourd’hui et qui nourrit la planète avec celle du bio qui ne permettra jamais de gros volumes."
+> *"Ici, les agriculteurs ont fait énormément d’efforts depuis vingt ans dans tous les domaines. Avec la population, nous voulons garder la maîtrise de notre développement, sans se surcharger encore de normes et contraintes qui nous étouffent déjà. Il est aussi insupportable que l’on oppose en permanence l’agriculture traditionnelle qui est vertueuse aujourd’hui et qui nourrit la planète avec celle du bio qui ne permettra jamais de gros volumes."*
 
 En lui répondant sur quelques points, nous nous adressons à toutes celles et ceux qui ne veulent rien changer et ne voient pas où est le problème.
 
@@ -43,14 +43,14 @@ Ce n’est pas à l’agriculteur ou l’agricultrice bretonne de nourrir « la
 
 D’autre part, si nous voulons parler de gros volume, de nombreuses études attestent désormais que sur le long terme, et avec des vrais méthodes agro-écologiques la bio a des rendements au moins équivalents[^07] voire supérieur à l’agriculture conventionnelle. Le rapport d'Olivier de Schutter (rapporteur spécial des Nations Unies pour le droit à l'alimentation, Mars 2011) est sans controverse :  l'agroécologie permet de nourrir sans difficulté 9 à 12 milliards d'humains sans défricher un seul hectare supplémentaire.
 
-Un autre scénario TYFA[^07] (Ten years For Agroecology) qui s’appuie sur la généralisation de l’agroécologie, l’abandon des importation de protéines végétales et l’adoption de régimes alimentaires plus sains à l’horizon 2050 atteste cette affirmation au niveau européen. Ce scénario : 
+Un autre scénario TYFA[^08] (Ten years For Agroecology) qui s’appuie sur la généralisation de l’agroécologie, l’abandon des importation de protéines végétales et l’adoption de régimes alimentaires plus sains à l’horizon 2050 atteste cette affirmation au niveau européen. Ce scénario : 
 - nourrit sainement les Européens tout en conservant une capacité d’exportation ; 
 - réduit l’empreinte alimentaire mondiale de l’Europe ; 
 - conduit à une réduction des émissions de GES du secteur agricole de 40 % ; 
 - permet de reconquérir la biodiversité et de conserver les ressources naturelles.
 
 
-Les solutions existent, et elles sont déjà largement pratiquées[^08] (l’agriculture biologique représente 10 % des fermes françaises, et ce chiffre est en constante augmentation), Il ne s'agit plus de s'interroger « est-ce que l'agriculture biologique peut se généraliser tout en nourrissant l'humanité ?» Mais de se poser une question dynamique et prospective : « comment développer la bio et nourrir le territoire ? »
+Les solutions existent, et elles sont déjà largement pratiquées[^09] (l’agriculture biologique représente 10 % des fermes françaises, et ce chiffre est en constante augmentation), Il ne s'agit plus de s'interroger « est-ce que l'agriculture biologique peut se généraliser tout en nourrissant l'humanité ?» Mais de se poser une question dynamique et prospective : « comment développer la bio et nourrir le territoire ? »
 
 
 [^01]: Citation d’un cadre d’une institution agricole régio­nale bretonne n’ayant pas souhaité donner son nom, dans Le Monde du 20 Novembre 2020
@@ -59,5 +59,6 @@ Les solutions existent, et elles sont déjà largement pratiquées[^08] (l’agr
 [^04]: Synthèse de l’Etat des Masses d’eau cours d’eau, 2015-2017, Observatoire de l’environnement en Bretagne - https://bretagne-environnement.fr/synthese-etat-masses-cours-eau-bretagne-datavisualisation
 [^05]: https://www.ouest-france.fr/bretagne/lamballe-armor-22400/cotes-d-armor-ce-cheveu-d-un-enfant-de-9-ans-montre-la-presence-de-13-polluants-6425233
 [^06]: « actuellement, un paysan qui embauche un salarié doit payer un euro de charges pour un euro de salaire versé. À l'inverse, si ce paysan acquiert du matériel agricole neuf, il recevra 50 centimes d'euro de subventions pour chaque euro dépensé. Il existe donc un rapport de 1 à 4, au profit de la mécanisation et au détriment de l'emploi. » Jacques Caplat 
-[^07]: https://www.euractiv.fr/section/agriculture-alimentation/news/agroecology-can-feed-europe-pesticide-free-in-2050-new-study-finds/ https://www.bioconsomacteurs.org/bio/dossiers/agriculture/agroecologie-vs-conventionnel-l-ecart-de-rendement-disparait
-[^08]: https://www.chambres-agriculture.fr/agriculteur-et-politiques/agriculture-biologique/lagriculture-bio-en-chiffres/
+[^07]: https://www.euractiv.fr/section/agriculture-alimentation/news/agroecology-can-feed-europe-pesticide-free-in-2050-new-study-finds/ 
+[^08]: https://www.bioconsomacteurs.org/bio/dossiers/agriculture/agroecologie-vs-conventionnel-l-ecart-de-rendement-disparait
+[^09]: https://www.chambres-agriculture.fr/agriculteur-et-politiques/agriculture-biologique/lagriculture-bio-en-chiffres/
