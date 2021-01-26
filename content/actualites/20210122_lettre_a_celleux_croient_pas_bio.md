@@ -53,6 +53,14 @@ Un autre scénario TYFA[^08] (Ten years For Agroecology) qui s’appuie sur la g
 Les solutions existent, et elles sont déjà largement pratiquées[^09] (l’agriculture biologique représente 10 % des fermes françaises, et ce chiffre est en constante augmentation), Il ne s'agit plus de s'interroger « est-ce que l'agriculture biologique peut se généraliser tout en nourrissant l'humanité ?» Mais de se poser une question dynamique et prospective : « comment développer la bio et nourrir le territoire ? »
 
 
+Lettre soutenue par :
+- collectif du Frémur à l'Arguenon
+- collectif des Pisseurs Involontaires de Glyphosate Jugon Les Lacs
+- Causons jardin
+- Echo l'eau
+- Les Vigiliantes
+
+
 [^01]: Citation d’un cadre d’une institution agricole régio­nale bretonne n’ayant pas souhaité donner son nom, dans Le Monde du 20 Novembre 2020
 [^02]: Idem
 [^03]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018
