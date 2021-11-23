@@ -28,6 +28,30 @@
 
   <section class="section">
     <div class="container">
+      <h1 class="title is-size-1 has-text-centered">Dernières actualités</h1>
+
+      {{ $actus := where .Site.RegularPages "Type" "actualites" }}
+      <div class="columns is-multiline">
+        {{ range $index, $element := first 3 ( $actus )  }}
+          <div class="column is-one-third">
+            {{ .Render "card"}}
+          </div>
+        {{ end }}
+      </div>
+
+
+      {{ $rdvs := .Site.GetPage "/actualites" }}
+      <div class="has-text-centered">
+        <a class="button is-primary is-centered mb-5" href="{{ $rdvs.Permalink }}">
+          Voir toutes les actualités
+        </a>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container">
       <h1 class="title is-size-1 has-text-centered">Prochains rendez-vous</h1>
 
       <div class="has-text-centered mt-6 mb-4">

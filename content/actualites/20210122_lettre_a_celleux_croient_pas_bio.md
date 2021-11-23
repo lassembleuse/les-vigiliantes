@@ -3,8 +3,12 @@ title: "Lettre à celles et ceux qui pensent que l'agriculture bio ne pourra jam
 subtitle: "En réponse à un adjoint de la ville de Trévron"
 date: 2021-01-22T18:45:08+02:00
 draft: false
-picture: 
+picture:
 ---
+
+En réponse à Mr Incrédule, élu local qui ne croit pas en l'agriculture biologique et ne veut pas voir de contraintes supplémentaires s'imposer aux agriculteurs de son territoire.
+
+<!--more-->
 
 En décembre dernier, Mr Incrédule, 1er adjoint de Trévron, justifie [dans Ouest France](https://www.ouest-france.fr/bretagne/trevron-22100/trevron-la-commune-n-adhere-pas-au-syndicat-mixte-du-pnr-7101813) le refus de sa commune d'adhérer au syndicat mixte du PNR notamment parce qu'il ne croit pas en l'agriculture biologique et ne veut pas voir de contraintes supplémentaires s'imposer aux agriculteurs de son territoire.
 
@@ -12,7 +16,6 @@ En décembre dernier, Mr Incrédule, 1er adjoint de Trévron, justifie [dans Oue
 
 En lui répondant sur quelques points, nous nous adressons à toutes celles et ceux qui ne veulent rien changer et ne voient pas où est le problème.
 
-<!--more-->
 
 ## Il est insupportable d'opposer l'agriculture traditionnelle et celle du bio
 
@@ -20,7 +23,7 @@ C'est notamment le passage suivant, concernant l’agriculture, qui nous interpe
 
 Nous nous rejoignons sur ce point, **il est insupportable d’opposer ces deux agricultures**. De toutes évidences, les agricultures ne sont pas deux… mais multiples ! Pourquoi diviser les paysans et les paysannes, alors que tant de ponts se font entre les différents modèles agricoles ? Comme vous le dites bien : *« les agriculteurs ont fait énormément d’efforts depuis vingt ans dans tous les domaines. »*
 
-Aujourd’hui, le monde agricole doit aller vers un décloisonnement, et une plus grande autonomie, *« la grande majorité des paysans biologiques sont tout simplement des paysans anciennement conventionnels ayant décidé de modifier leurs pratiques »*[^01] 
+Aujourd’hui, le monde agricole doit aller vers un décloisonnement, et une plus grande autonomie, *« la grande majorité des paysans biologiques sont tout simplement des paysans anciennement conventionnels ayant décidé de modifier leurs pratiques »*[^01]
 
 Mais les blocages semblent se faire à un autre niveau : *« Le monde agricole est contraint d’évoluer et il le sait. Il y a beaucoup de prises de cons­cience et de volonté de changement, ainsi que des débats en interne, mais aussi une su­prématie de gens au pouvoir qui veulent gar­der leur siège... On a une génération de déci­deurs bourrus qui n’ont même pas vu venir les problématiques environnementales et les évolutions sociétales ! Nombre de paysans se­raient prêts à foutre dehors tous ceux qui bouffent sur leur dos, sauf qu’ils redoutent les pressions, financières et de pouvoir. »*[^02]
 
@@ -43,10 +46,10 @@ Ce n’est pas à l’agriculteur ou l’agricultrice bretonne de nourrir « la
 
 D’autre part, si nous voulons parler de gros volume, de nombreuses études attestent désormais que sur le long terme, et avec des vrais méthodes agro-écologiques la bio a des rendements au moins équivalents[^07] voire supérieur à l’agriculture conventionnelle. Le rapport d'Olivier de Schutter (rapporteur spécial des Nations Unies pour le droit à l'alimentation, Mars 2011) est sans controverse :  l'agroécologie permet de nourrir sans difficulté 9 à 12 milliards d'humains sans défricher un seul hectare supplémentaire.
 
-Un autre scénario TYFA[^08] (Ten years For Agroecology) qui s’appuie sur la généralisation de l’agroécologie, l’abandon des importation de protéines végétales et l’adoption de régimes alimentaires plus sains à l’horizon 2050 atteste cette affirmation au niveau européen. Ce scénario : 
-- nourrit sainement les Européens tout en conservant une capacité d’exportation ; 
-- réduit l’empreinte alimentaire mondiale de l’Europe ; 
-- conduit à une réduction des émissions de GES du secteur agricole de 40 % ; 
+Un autre scénario TYFA[^08] (Ten years For Agroecology) qui s’appuie sur la généralisation de l’agroécologie, l’abandon des importation de protéines végétales et l’adoption de régimes alimentaires plus sains à l’horizon 2050 atteste cette affirmation au niveau européen. Ce scénario :
+- nourrit sainement les Européens tout en conservant une capacité d’exportation ;
+- réduit l’empreinte alimentaire mondiale de l’Europe ;
+- conduit à une réduction des émissions de GES du secteur agricole de 40 % ;
 - permet de reconquérir la biodiversité et de conserver les ressources naturelles.
 
 
@@ -61,7 +64,7 @@ Lettre soutenue par : collectif du Frémur à l'Arguenon, collectif des Pisseurs
 [^03]: Etude de Dinan Agglomération dans le cadre du PCAET, octobre 2018
 [^04]: Synthèse de l’Etat des Masses d’eau cours d’eau, 2015-2017, Observatoire de l’environnement en Bretagne - https://bretagne-environnement.fr/synthese-etat-masses-cours-eau-bretagne-datavisualisation
 [^05]: https://www.ouest-france.fr/bretagne/lamballe-armor-22400/cotes-d-armor-ce-cheveu-d-un-enfant-de-9-ans-montre-la-presence-de-13-polluants-6425233
-[^06]: « actuellement, un paysan qui embauche un salarié doit payer un euro de charges pour un euro de salaire versé. À l'inverse, si ce paysan acquiert du matériel agricole neuf, il recevra 50 centimes d'euro de subventions pour chaque euro dépensé. Il existe donc un rapport de 1 à 4, au profit de la mécanisation et au détriment de l'emploi. » Jacques Caplat 
-[^07]: https://www.euractiv.fr/section/agriculture-alimentation/news/agroecology-can-feed-europe-pesticide-free-in-2050-new-study-finds/ 
+[^06]: « actuellement, un paysan qui embauche un salarié doit payer un euro de charges pour un euro de salaire versé. À l'inverse, si ce paysan acquiert du matériel agricole neuf, il recevra 50 centimes d'euro de subventions pour chaque euro dépensé. Il existe donc un rapport de 1 à 4, au profit de la mécanisation et au détriment de l'emploi. » Jacques Caplat
+[^07]: https://www.euractiv.fr/section/agriculture-alimentation/news/agroecology-can-feed-europe-pesticide-free-in-2050-new-study-finds/
 [^08]: https://www.bioconsomacteurs.org/bio/dossiers/agriculture/agroecologie-vs-conventionnel-l-ecart-de-rendement-disparait
 [^09]: https://www.chambres-agriculture.fr/agriculteur-et-politiques/agriculture-biologique/lagriculture-bio-en-chiffres/
