@@ -23,7 +23,7 @@
       <div class="column is-one-third">
         <h4 class="title is-5">Contact</h4>
         <p>
-          {{ with .Site.Data.global.nom_organisation }} 
+          {{ with .Site.Data.global.nom_organisation }}
             {{.}}
             <br>
           {{ end }}
@@ -51,6 +51,12 @@
           <br>
           <i class="fab fa-facebook-f mr-1"></i>
           <a href="{{ . }}" target="_blank">Page facebook</a>
+          {{ end }}
+
+          {{ with .Site.Data.global.instagram_organisation }}
+          <br>
+          <i class="fab fa-instagram mr-1"></i>
+          <a href="{{ . }}" target="_blank">Instagram</a>
           {{ end }}
         </p>
       </div>
