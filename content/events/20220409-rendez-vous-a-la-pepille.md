@@ -12,9 +12,10 @@ published: true
 On se retrouve dimanche 24 avril, à partir de 10h, derrière le super U, pour continuer d'aménager la pépinière et entretenir le bosquet.
 
 Au programme, entre autres :
-- on continue à couvrir le sol (couvre-sol, cartons...), on désherbe si besoin... => AMENEZ VOS COUVRE SOLS !
+
+- on continue à couvrir le sol (couvre-sol, cartons...), on désherbe si besoin... => **AMENEZ VOS COUVRE SOLS !**
 - on dessine un peu mieux les circulation avec des copeaux de bois
-- on monte si on a le temps une arche pergola de récup
+- on monte si on a le temps une arche pergola de récup'
 - et sûrement encore d'autre chose sur place
 
 Vous pouvez aussi très bien passer juste pour papoter, hein.
