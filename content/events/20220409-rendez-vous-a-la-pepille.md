@@ -1,7 +1,7 @@
 ---
 title: "Jardinage à la Pépille"
 eventDate: 2022-04-24T10:00:00Z
-eventReadableDate: "Dimanche 24avril 2022"
+eventReadableDate: "Dimanche 24 avril 2022"
 eventReadableTime: "10h - 12h30"
 locationStreet: "La Pépille, lieu dit les Rouffes,  "
 locationCity: "22100 Lanvallay"
