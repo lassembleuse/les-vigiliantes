@@ -11,19 +11,27 @@ menu:
 
 ## Adhérer à BRUDED, réseau d'échange d'expérience de développement local durable entre collectivités
 
-Une première étape peut être d'adhérer à BRUDED, pour : 
+Une première étape peut être d'adhérer à BRUDED, pour :
 - Partager les expériences des collectivités adhérentes : visites, rencontres, mise en relation directe d’élus à élus, transmission de documents (cahier des charges, conventions, …)
 - Bénéficier de multiples ressources : documents de mutualisation thématiques, fiches projets, vidéos, …
 - Etre accompagner dans ses expérimentations et bénéficier de l’expérience et de la force du réseau
 
-Les adhérents sur l'agglomération (date d'adhésion): 
+Les adhérents sur l'agglomération (date d'adhésion):
 
-- Evran (2017)
-- Languédias (2018)
-- Lanvallay (2014)
 - Plouër-sur-Rance (2008)
-- Saint-André-des-Eaux (2017)
+- Lanvallay (2014)
+- Saint Helen (2015)
 - Saint Juvat (2016)
+- Evran (2017)
+- Saint-André-des-Eaux (2017)
+- Languédias (2018)
+- Beaussais sur mer (2018)
+- Quevert (2020)
+- St Samson s/Rance (2020)
+- Plumaudan (2020)
+- Saint Judoce (2020)
+- Pleslin Trigavou (2022)
+- Les Champs Geraux (2022)
 
 
 **Plus d'infos et contact** : [www.bruded.fr](https://www.bruded.fr)
@@ -45,12 +53,12 @@ Mise à disposition de terrains communaux pour que les citoyens·nes puissent as
 
 Elle permet à la collectivité de porter elle-même une activité de production agricole. Il ne s’agit donc plus de soutenir une installation en favorisant l’accès au foncier mais d’affirmer le principe qu’une alimentation locale et saine relève de l’intérêt général et que la collectivité se doit de mettre en œuvre les moyens nécessaires pour la garantir à ses citoyens.
 
-> **Exemples** : 
+> **Exemples** :
 > - [agglomération de Toulouse](https://www.banquedesterritoires.fr/toulouse-convertit-sa-regie-agricole-au-bio)
-> - la [commune de Mouans-Sartoux](https://www.youtube.com/watch?v=6qYLDTNBDDk) (9700 habitants), 
+> - la [commune de Mouans-Sartoux](https://www.youtube.com/watch?v=6qYLDTNBDDk) (9700 habitants),
 > - [Vannes](https://www.ouest-france.fr/bretagne/vannes-56000/la-ville-de-vannes-cree-sa-regie-de-maraichage-et-c-est-bio-6289875)...
 
-## Mise à disposition de terres et/ou de bâtiments pour des producteurs professionnels 
+## Mise à disposition de terres et/ou de bâtiments pour des producteurs professionnels
 
 Certaines collectivités sont propriétaires de terrains qui pourraient être mis à disposition pour une installation agricole ou conforter une activité qui démarre. La collectivité peut aussi saisir l’opportunité d’une vente de terrains pour les acquérir et les mettre à disposition d’un agriculteur. Ce sont également parfois les CCAS (centre communal d’action sociale) ayant hérité d’habitants décédés qui deviennent propriétaires et disposent de terrains.
 
@@ -63,7 +71,7 @@ Au-delà des terres, la question des bâtiments d’exploitation et l’accès a
 Les étapes suivantes sont la recherche et la sélection de candidats (à moins qu’ils ne soient déjà identifiés) puis la mise en location avec le bail rural environnemental qui permet d’apporter des garanties sur le respect d’un certain nombre de clauses environnementales.
 
 
-> **Exemple** : 
+> **Exemple** :
 > - [Saint-Georges de Reintembault](https://www.bruded.fr/projet/aide-a-linstallation-dun-maraicher-bio-a-saint-georges-de-reintembault/) (Ille et Vilaine, 1600 habitants).
 
 
