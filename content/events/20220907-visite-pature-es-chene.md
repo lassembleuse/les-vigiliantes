@@ -1,5 +1,5 @@
 ---
-title: "Visite de la Pâture es Chêne"
+title: "Visite de la Pâture es Chênes"
 eventDate: 2022-09-21T10:00:00Z
 eventReadableDate: "Mercredi 21 septembre 2022"
 eventReadableTime: "10h - 12h"
