@@ -4,7 +4,7 @@ eventDate: 2022-09-21T10:00:00Z
 eventReadableDate: "Mercredi 21 septembre 2022"
 eventReadableTime: "10h - 12h"
 locationStreet: "la Pâture es Chênes"
-locationCity: "22100 Lanvallay"
+locationCity: "Beau Soleil, 22150 Hénon"
 picture: "/uploads/20220921_visite_pature.jpg"
 published: true
 ---
