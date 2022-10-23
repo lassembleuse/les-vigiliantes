@@ -10,6 +10,7 @@ published: true
 ---
 
 Exceptionnellement, la session du mois est composite et réduite !
+
 - Retrouvez-nous jusqu'à 11h ou 11h30 au Troc de plantes de Lanvallay
 - Rendez-vous à partir de 11h30 à la Pépille pour planter directement ce qui aura éventuellement été récupéré pendant le troc de plantes :)
 
