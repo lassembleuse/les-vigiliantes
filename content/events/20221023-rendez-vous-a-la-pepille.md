@@ -19,10 +19,9 @@ Grosse session de densification du bois nourricier, pour célébrer la Sainte Ca
 
 ### 14h - 16h : atelier semis
 
-Pour le tout premier atelier, on est ravie d'accueillir Louis Adrien Delville, de l'association Sol Arbre Eau, qui vise la restauration des paysages par la plantation d'arbre.
+Pour le tout premier atelier organisé à la Pépille, on est ravie d'accueillir Louis Adrien Delville, de l'association Sol Arbre Eau, qui vise la restauration des paysages par la plantation d'arbre.
 
-
-Louis est passionné d'arbres, semeur d'arbre compulsif depuis 3 ans du côté de Broons, viendra partagé avec nous son savoir faire sur le semis : comment ça fonctionne, une graine ? Comment reproduit-on les conditions pour qu'elle germe ? Quels sont les écueils à éviter (Louis partagera ses erreurs histoire de nous permettre d'éviter de faire les mêmes :)) ?
+Louis est passionné d'arbres, semeur d'arbre compulsif depuis 3 ans du côté de Broons. Il viendra partager avec nous son savoir-faire sur le semis : comment ça fonctionne, une graine ? Comment reproduit-on les conditions pour qu'elle germe ? Quels sont les écueils à éviter (Louis partagera ses erreurs histoire de nous permettre d'éviter de faire les mêmes :)) ?
 
 On parlera fonte de semis, stratification, dormance, pulpe, au cours d'un exposé suivi d'une séance de questions-réponses avec un peu de démonstration et de mise en pratique.
 
