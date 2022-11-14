@@ -2,7 +2,7 @@
 title: "Rendez-vous à la Pépille, spécial Sainte Catherine"
 eventDate: 2022-11-27T10:00:00Z
 eventReadableDate: "Dimanche 27 novembre 2022"
-eventReadableTime: "10h - 17h00"
+eventReadableTime: "10h - 16h00"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
 picture: "/uploads/202208_Pepille.jpg"
@@ -13,10 +13,24 @@ Autour de la Sainte Catherine, tout bois prend racine... toute la journée à la
 
 Pour cette date bien connue des planteurs de graines et des éleveuses de ligneux, nous vous proposons un programme qui sort de l'ordinaire :
 
-- en matinée : atelier autour du semis, avec un intervenant spécialisé
-- en après-midi, nouvelle session de plantation à la Pépille, pour densifier le boisement nourricier.
+### 10h - 12h : on plante !
 
-Plus d'infos et de détails à venir.
+Grosse session de densification du bois nourricier, pour célébrer la Sainte Catherine ! On affine la liste de tout ce qu'on aimerait planter, des commandes sont déjà en cours après des pépiniéristes, et
+
+### 14h - 16h : atelier semis
+
+Pour le tout premier atelier, on est ravie d'accueillir Louis Adrien Delville, de l'association Sol Arbre Eau, qui vise la restauration des paysages par la plantation d'arbre.
+
+
+Louis est passionné d'arbres, semeur d'arbre compulsif depuis 3 ans du côté de Broons, viendra partagé avec nous son savoir faire sur le semis : comment ça fonctionne, une graine ? Comment reproduit-on les conditions pour qu'elle germe ? Quels sont les écueils à éviter (Louis partagera ses erreurs histoire de nous permettre d'éviter de faire les mêmes :)) ?
+
+On parlera fonte de semis, stratification, dormance, pulpe, au cours d'un exposé suivi d'une séance de questions-réponses avec un peu de démonstration et de mise en pratique.
+
+Vous pourrez même repartir avec des semis :)
+
+*Atelier proposé à **prix libre***
+
+**Inscription : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)**
 
 <!--more-->
 
