@@ -15,7 +15,17 @@ Pour cette date bien connue des planteurs de graines et des éleveuses de ligneu
 
 ### 10h - 12h : on plante !
 
-Grosse session de densification du bois nourricier, pour célébrer la Sainte Catherine ! On affine la liste de tout ce qu'on aimerait planter, des commandes sont déjà en cours après des pépiniéristes, et
+Après une plantation initiale en février 2022,  il est temps de densifier le bosquet nourricier : remplacer les quelques arbres plus fragiles qui n’ont pas survécu aux chevreuils ou à la sécheresse, combler d’arbustes quelques trous persistants, implanter les premières lianes, et maculer la surface de couvre-sols.
+
+Et pour que le bois nourricier devienne une jungle luxuriante, nous faisons appel aux jardinières et jardiniers aux jardins trop productifs pour la grande plantation prévue le 27 novembre !
+
+[Voir la liste des plants que la Pépille est susceptible d'accueillir](https://docs.google.com/spreadsheets/d/1jEDfN0hx-UhAMA6vP30RQIDK97V0jxrwcvR06s8fslw/edit#gid=2145220912)
+
+Pour déposer les plants :
+- Les plants sont à déposer, autant que possible, directement à la Pépille (lieu dit les Rouffs à Lanvallay : https://www.openstreetmap.org/#map=19/48.44870/-2.01557&layers=N)
+- soit le 27 novembre matin, soit en amont
+
+Si vous êtes proches de la Pépille et ne pouvez vous déplacer, prenez contact pour qu'on en discute : contact@vigiliantes.fr
 
 ### 14h - 16h : atelier semis
 
