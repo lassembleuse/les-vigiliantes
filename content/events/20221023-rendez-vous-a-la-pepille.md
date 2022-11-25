@@ -9,6 +9,10 @@ picture: "/uploads/202208_Pepille.jpg"
 published: true
 ---
 
+**ATTENTION, l'atelier semis initialement prévu l'après-midi est reporté.**
+
+---
+
 Autour de la Sainte Catherine, tout bois prend racine... toute la journée à la Pépille !
 
 Pour cette date bien connue des planteurs de graines et des éleveuses de ligneux, nous vous proposons un programme qui sort de l'ordinaire :
@@ -27,7 +31,9 @@ Pour déposer les plants :
 
 Si vous êtes proches de la Pépille et ne pouvez vous déplacer, prenez contact pour qu'on en discute : contact@vigiliantes.fr
 
-### 14h - 16h : atelier semis
+### 14h - 16h : atelier semis -> REPORTÉ
+
+*Reporté probablement courant janvier, on vous tient au courant !*
 
 Pour le tout premier atelier organisé à la Pépille, on est ravie d'accueillir Louis Adrien Delville, de l'association Sol Arbre Eau, qui vise la restauration des paysages par la plantation d'arbre.
 
