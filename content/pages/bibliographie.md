@@ -2,12 +2,12 @@
 date: '2019-08-01T13:17:31.000+00:00'
 title: "Bibliographie"
 layout: ressources
-menu:
-  main:
-    weight: 2
-    parent: "Ressources"
-  footer:
-    weight: 4
+# menu:
+#   main:
+#     weight: 2
+#     parent: "Ressources"
+#   footer:
+#     weight: 4
 ---
 
 

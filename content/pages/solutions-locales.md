@@ -1,12 +1,12 @@
 ---
 date: '2020-06-01T13:17:31.000+00:00'
 title: "Solutions locales"
-menu:
-  main:
-    weight: 3
-    parent: "Ressources"
-  footer:
-    weight: 5
+# menu:
+#   main:
+#     weight: 3
+#     parent: "Ressources"
+#   footer:
+#     weight: 5
 ---
 
 ## Adhérer à BRUDED, réseau d'échange d'expérience de développement local durable entre collectivités

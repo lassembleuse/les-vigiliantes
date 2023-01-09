@@ -32,10 +32,10 @@ menu:
   main:
   - identifier: Qui sommes-nous
     name: Qui sommes-nous
-    weight: 1
-  - identifier: Ressources
-    name: Ressources
-    weight: 100
+    weight: 7
+  # - identifier: Ressources
+  #   name: Ressources
+  #   weight: 100
 
 permalinks:
   actualites: /:year/:month/:title/
