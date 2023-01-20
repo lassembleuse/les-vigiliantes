@@ -17,7 +17,9 @@ En juillet dernier, les Vigiliantes soutenaient un collectif dans son recours co
 
 ![Carte des terrains agricoles en cours de construction ou visés par des projets de lotissement en proximité du bourg dans le bourg de Quévert](/uploads/202301_Carte-zonesagri-quevert-attaquees.jpg "Carte des terrains agricoles en cours de construction ou visés par des projets de lotissement en proximité du bourg dans le bourg de Quévert")
 
+
 C'est la réponse écrite à cette entrevue que nous publions ici. Elle contient des interrogations qui ne sont pas propres au lotissement concerné à Quévert, mais pourraient s'appliquer à de nombreux projets immobiliers en cours et à venir sur le territoire :
+
 - risque-t-on d'assister à une fuite en avant dans l'octroi de permis de contruire tant qu'il est encore possible d'artificialiser sans contrainte ?
 - les populations locales seront-elles associées de façon satisfaisante à des décisions d'urbanismes dont l'impact sera de plus en plus fort sur leur qualité de vie (du fait des changements climatiques) ?
 - quelles réflexions et quels garde-fous sur les qualités (paysagères, matériaux écologiques...) des nouvelles constructions ?
