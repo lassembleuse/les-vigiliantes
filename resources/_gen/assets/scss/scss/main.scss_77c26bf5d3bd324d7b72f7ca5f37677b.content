@@ -12274,7 +12274,9 @@ label.panel-block {
     padding-left: 3rem; } }
 
 .actualite-content img {
-  max-width: 600px; }
+  max-width: 600px;
+  margin: 0 auto;
+  display: block; }
 
 .footnotes {
   font-size: 0.8rem; }
