@@ -18,13 +18,13 @@ Apprenez à bichonner les arbres ou bricoler dans le jardin avec nous, en filant
 Les propositions du mois :
 
 - rapatrier une petite serre que les voisins nous donnent (merci à eux !)
+- planter, encore planter, toujours planter (on a encore des arbres en jauge...)
 - désherber / pailler le bosquet nourricier
 - baliser les futurs emplacements des équipements à venir (tunnel d'accueil, cabanon de stockage d'outils, toilettes sèches...)
-- construction de mobilier en palette, pour qui veut ? (on a des plans si manque d'inspiration, et on aura de quoi tirer de l'électricité !)
-- clôturer la parcelle pépinière
 - aménagement, délimitation des zones de circulation
+- construction de mobilier en palette ? Faites signe si ça vous tente, qu'on prévoit le matériel !
 
-Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter !
+Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
 **Pour venir :**
 
