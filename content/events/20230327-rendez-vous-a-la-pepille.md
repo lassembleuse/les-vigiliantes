@@ -11,20 +11,25 @@ published: true
 
 Encore pas mal de créneaux de chantier ouverts en ce mois d'avril :
 
-### Mercredi 5 avril
+### Mercredi 5 avril, 10h
 
 - entretien de la Pépille,
 - recensement des plantes,
 - semis de plantes mellifères,
 - fixation de la mini serre (si on est assez nombreux)...
 
-### Mercredi 12 avril : greffe !
+### Mercredi 12 avril, 10h : greffe !
 
 En attendant d'apprendre la greffe en couronne avec Anaïs des Champs Comestibles, on met en pratique ce qu'on a vu avec Olivier Garnier lors de notre formation greffe en février.
 
 Rejoignez-nous si vous voulez découvrir la greffe anglaise simple sur une poignée de pommiers.
 
-### Dimanche 30 avril
+## Lundi 17 avril, 14h
+
+On boucle la clôture ? Quelques jambes de force à poser, la pose du grillage et une improvisation de portail... Et ça devrait être bon !
+(merciiii à Bruno pour ses précieux conseils !)
+
+### Dimanche 30 avril, 10h
 - entretien,
 - construction de mobilier
 - sûrement plein d'autres propositions d'ici là...
