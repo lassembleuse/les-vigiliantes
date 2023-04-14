@@ -1,5 +1,5 @@
 ---
-title: "Chantiers clôturage de l'espace pépinière"
+title: "Chantier clôturage de l'espace pépinière"
 eventDate: 2023-04-08T10:00:00Z
 eventReadableDate: "Samedi 8 avril 2023"
 eventReadableTime: "10h - 12h30"

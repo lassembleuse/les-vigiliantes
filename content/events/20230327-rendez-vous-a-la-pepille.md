@@ -5,20 +5,32 @@ eventReadableDate: "Mercredi 5 et 12, et Dimanche 30 avril 2023"
 eventReadableTime: "10h - 12h30"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/202303_Pepille.jpg"
+picture: "/uploads/20230430_chantier_ouvert.jpg"
 published: true
 ---
 
 Encore pas mal de créneaux de chantier ouverts en ce mois d'avril :
 
-- **mercredi 5 avril** : entretien de la Pépille, recensement des plantes, fixation de la mini serre (si on est assez nombreux)
+### Mercredi 5 avril
 
-- **mercredi 12 avril** : sans doute greffe de pommiers ! + entretien
+- entretien de la Pépille,
+- recensement des plantes,
+- semis de plantes mellifères,
+- fixation de la mini serre (si on est assez nombreux)...
 
-- **dimanche 30 avril** : entretien, construction de mobilier...
+### Mercredi 12 avril : greffe !
+
+En attendant d'apprendre la greffe en couronne avec Anaïs des Champs Comestibles, on met en pratique ce qu'on a vu avec Olivier Garnier lors de notre formation greffe en février.
+
+Rejoignez-nous si vous voulez découvrir la greffe anglaise simple sur une poignée de pommiers.
+
+### Dimanche 30 avril
+- entretien,
+- construction de mobilier
+- sûrement plein d'autres propositions d'ici là...
 
 <!--more-->
-
+___
 
 PS : on prend toujours vos cartons en trop !
 
