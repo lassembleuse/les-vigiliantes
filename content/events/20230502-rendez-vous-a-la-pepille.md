@@ -17,8 +17,13 @@ Autour de cette date, on peut aussi se retrouver 2 mercredi matin, ce mois-ci !
 - fixation de la mini serre (si on est assez nombreux)...
 - plantation de couvre-sols : vous avez trop de plantes couvre-sols ? Amenez-les, on les adopte !
 
-### Mercredi 10 mai, 10h
+### ~~Mercredi 10 mai, 10h~~ Reporté !
 
+On a des greffes à finir impérativement dans les prochains jours, et c'est définitivement pas un temps à greffer...
+
+### Vendredi 12 mai, 10h
+
+- fin des greffes en couronne
 - aération de l'espace pépinière (grelinette ou campagnole, etc),
 - semis de plantes mellifères,
 - signalétique des plantes,
