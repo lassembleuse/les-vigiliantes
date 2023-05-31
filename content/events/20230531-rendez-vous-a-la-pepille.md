@@ -11,10 +11,15 @@ published: true
 
 Deux mercredi et le traditionnel dernier dimanche du mois ; voici le planning des chantiers ouverts de juin !
 
-Le programme est prévisionnel,
+Le programme est prévisionnel, et amené à évoluer en fonction des priorités du moment :)
+
+Découvrez ce qui devrait vous attendre ci-dessous :
+
+<!--more-->
 
 ### A faire dans le mois, selon météo et nombre de personnes :
 - plantation de couvre-sols : vous avez trop de plantes couvre-sols ? Amenez-les, on les adopte !
+
 
 ### Mercredi 7 juin, 10h
 
@@ -33,8 +38,6 @@ Le programme est prévisionnel,
 - construction de mobilier,
 - sûrement plein d'autres propositions d'ici là...
 
-
-<!--more-->
 ___
 
 PS : on prend toujours vos cartons en trop !
