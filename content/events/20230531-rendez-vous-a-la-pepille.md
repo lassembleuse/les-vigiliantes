@@ -1,6 +1,6 @@
 ---
 title: "Chantiers ouverts à la Pépille, juin 2023"
-eventDate: 2023-05-24T10:00:00Z
+eventDate: 2023-06-25T10:00:00Z
 eventReadableDate: "Mercredi 7 et 14, et Dimanche 25 juin 2023"
 eventReadableTime: "10h - 12h30"
 locationStreet: "La Pépille, lieu dit les Rouffes"
