@@ -32,7 +32,7 @@ Quelques photos :
 ![Positionnement pour marteler la faux sur l'enclume](20230610_positionnement_enclume.jpeg)
 *Positionnement pour marteler la faux sur l'enclume (toutes les 3 à 5 heures de fauche)*
 
-![L'aiguisage de la faux](20230610_aiguissage)
+![L'aiguisage de la faux](20230610_aiguissage.jpeg)
 *L'aiguisage de la faux (régulièrement durant la faux)*
 
 
