@@ -9,6 +9,7 @@ Même sous les averses de bruines, on peut parler fauchage !
 Samedi 10 juin avait lieu notre première initiation au fauchage à la faux, avec Mikaël du Jardin des Hérissons.
 
 Un atelier hyper riche, où on a parlé de :
+
 - le pouvoir méditatif du fauchage au point du jour
 - la différence entre faux et fauchon, quand utilisé l'une ou l'autre
 - gomme abrasive, marteau, enclume, pierre à aiguiser... ou l'art d'entretenir sa faux
@@ -33,7 +34,7 @@ Quelques photos :
 *Positionnement pour marteler la faux sur l'enclume (toutes les 3 à 5 heures de fauche)*
 
 ![L'aiguisage de la faux](20230610_aiguissage.jpeg)
-*L'aiguisage de la faux (régulièrement durant la faux)*
+*L'aiguisage de la faux (régulièrement durant la fauche)*
 
 
 

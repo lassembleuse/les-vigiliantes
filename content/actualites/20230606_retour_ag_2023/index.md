@@ -8,6 +8,7 @@ picture: "/uploads/20230605_AG_vigiliantes.png"
 Nous étions une quinzaine présentes et présents pour l'Assemblée Générale 2023 ! Faire le bilan, c'est un exercice souvent bienvenu pour se rappeler pourquoi on fait ce qu'on fait, ce qui a déjà été fait et ce qu'il reste à faire.
 
 Pour résumer, en 2023-24, on devrait :
+
 - poursuivre l'aménagement de la Pépille
 - essayer de lancer l'accueil de scolaires
 - on aimerait aussi relancer des conférences / débats autour de l'agriculture / l'alimentation / l'environnement, mais pour cela des forces vives seraient bienvenues !
