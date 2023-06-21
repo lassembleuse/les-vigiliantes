@@ -15,6 +15,7 @@ Parfait pour se détendre au jardin après une journée de boulot :)
 
 Les propositions pour la soirée :
 - faire l'état des lieux (comment se portent les arbres, etc)
+- échanges sur le mode de gestion de la Pépille
 - éventuels arrosages
 - paillage
 - si vous avez une faux en état de marche, fauchage !
