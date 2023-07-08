@@ -1,7 +1,7 @@
 ---
-title: "Apéro flash - sécateur"
-eventDate: 2023-07-03T18:00:00Z
-eventReadableDate: "Lundi 03 juillet 2023"
+title: "Apéro flash - programme à venir"
+eventDate: 2023-07-17T18:00:00Z
+eventReadableDate: "Lundi 17 juillet 2023"
 eventReadableTime: "18h - 20h00"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
@@ -13,14 +13,11 @@ published: true
 
 Tout l'été, le lundi soir, on lance les apéro-flash ! Rendez-vous à la Pépille pour une action flash coordonnée menée à plusieurs, suivie d'un apéro.
 
-# Lundi 3 juillet - apéro Sécateur
+# Lundi 17 juillet - programme à venir
 
-Votre mission si vous l'acceptez: **supprimer les rumex (oseille sauvage) avant qu'ils grainent et dégager quelques zones de vie et de circulation**
+Le programme se définit d'une semaine sur l'autre, on précisera donc la thématique à partir du 11 juillet.
 
-Munissez-vous de vos plus beaux sécateurs, de vos serpettes et de vos faux les plus affûtées pour une petite coupe d'été à la Pépille :)
-
-Puis, on partage l'apéro ! Chacune et chacun apporte à boire et/ou à manger, on papote, on imagine la suite, on visite ...
-
+Quoiqu'il en soit, à la fin, on partage l'apéro ! Chacune et chacun apporte à boire et/ou à manger, on papote, on imagine la suite, on visite ...
 
 <!--more-->
 

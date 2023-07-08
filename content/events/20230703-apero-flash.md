@@ -1,7 +1,7 @@
 ---
-title: "Apéro flash - sécateur"
-eventDate: 2023-07-03T18:00:00Z
-eventReadableDate: "Lundi 03 juillet 2023"
+title: "Apéro flash - pied de biche"
+eventDate: 2023-07-10T18:00:00Z
+eventReadableDate: "Lundi 10 juillet 2023"
 eventReadableTime: "18h - 20h00"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
@@ -13,11 +13,13 @@ published: true
 
 Tout l'été, le lundi soir, on lance les apéro-flash ! Rendez-vous à la Pépille pour une action flash coordonnée menée à plusieurs, suivie d'un apéro.
 
-# Lundi 3 juillet - apéro Sécateur
+# Lundi 10 juillet - apéro pied de biche
 
-Votre mission si vous l'acceptez: **supprimer les rumex (oseille sauvage) avant qu'ils grainent et dégager quelques zones de vie et de circulation**
+Votre mission si vous l'acceptez: **démonter des palettes, voir commencer à monter du petit mobilier**
 
-Munissez-vous de vos plus beaux sécateurs, de vos serpettes et de vos faux les plus affûtées pour une petite coupe d'été à la Pépille :)
+Venez avec vos pieds de biche les plus efficaces, vos arrache-liteaux ou vos démonte palettes les plus éprouvés !
+
+Possibilité aussi de venir avec ses scies, vis et tournevis pour construire des trucs suivant nos inspirations (bancs, tabouret, table basse, étagères, porte outils...)
 
 Puis, on partage l'apéro ! Chacune et chacun apporte à boire et/ou à manger, on papote, on imagine la suite, on visite ...
 
