@@ -1,5 +1,5 @@
 ---
-title: "Chantier ouvert - apéro à la Pépille"
+title: "Chantier ouvert à la Pépille"
 eventDate: 2023-07-30T10:00:00Z
 eventReadableDate: "Dimanche 30 juillet 2023"
 eventReadableTime: "10h - 12h30"

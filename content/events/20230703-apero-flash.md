@@ -1,5 +1,5 @@
 ---
-title: "Apéro flash - pied de biche"
+title: "Lundi 10 juillet - Apéro flash pied de biche"
 eventDate: 2023-07-10T18:00:00Z
 eventReadableDate: "Lundi 10 juillet 2023"
 eventReadableTime: "18h - 20h00"
@@ -11,11 +11,9 @@ published: true
 
 *Une mission ciblée + plein de mains pour la remplir en un temps record + un apéro pour célébrer notre efficacité !*
 
-Tout l'été, le lundi soir, on lance les apéro-flash ! Rendez-vous à la Pépille pour une action flash coordonnée menée à plusieurs, suivie d'un apéro.
-
-# Lundi 10 juillet - apéro pied de biche
-
 Votre mission si vous l'acceptez: **démonter des palettes, voir commencer à monter du petit mobilier**
+
+<!--more-->
 
 Venez avec vos pieds de biche les plus efficaces, vos arrache-liteaux ou vos démonte palettes les plus éprouvés !
 
@@ -24,7 +22,6 @@ Possibilité aussi de venir avec ses scies, vis et tournevis pour construire des
 Puis, on partage l'apéro ! Chacune et chacun apporte à boire et/ou à manger, on papote, on imagine la suite, on visite ...
 
 
-<!--more-->
 
 
 **Pour venir :**
