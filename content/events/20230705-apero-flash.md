@@ -1,5 +1,5 @@
 ---
-title: "Lundi 24 juillet - Apéro flash programme à venir"
+title: "Lundi 24 juillet - Apéro flash arrosage"
 eventDate: 2023-07-24T18:00:00Z
 eventReadableDate: "Lundi 24 juillet 2023"
 eventReadableTime: "18h - 20h00"
@@ -11,11 +11,13 @@ published: true
 
 *Une mission ciblée + plein de mains pour la remplir en un temps record + un apéro pour célébrer notre efficacité !*
 
-Le programme se définit d'une semaine sur l'autre, on précisera donc la thématique à partir du 18 juillet.
+Votre mission si vous l'acceptez: **donner à boire aux arbres et arbustes de la pépinière et du bosquet nourricier !**
 
 <!--more-->
-Quoiqu'il en soit, à la fin, on partage l'apéro ! Chacune et chacun apporte à boire et/ou à manger, on papote, on imagine la suite, on visite ...
 
+Venez avec vos pompes les plus performantes, vos rallonges les plus longues (l'électricité est loin) et vos arrosoirs les plus maniables !
+
+Puis, on partage l'apéro ! Chacune et chacun apporte à boire et/ou à manger, on papote, on imagine la suite, on visite ...
 
 
 **Pour venir :**
