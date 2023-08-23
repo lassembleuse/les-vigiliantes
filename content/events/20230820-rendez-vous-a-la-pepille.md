@@ -5,7 +5,7 @@ eventReadableDate: "Vendredi 25 août 2023"
 eventReadableTime: "09h - 17h30"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20230825_Pepille.jpeg"
+picture: "/uploads/20230825_Pepille.jpg"
 published: true
 ---
 

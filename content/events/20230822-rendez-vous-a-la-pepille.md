@@ -5,7 +5,7 @@ eventReadableDate: "Septembre 2023"
 eventReadableTime: ""
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20230924_Pepille.jpeg"
+picture: "/uploads/20230924_Pepille.jpg"
 published: true
 ---
 
