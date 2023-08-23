@@ -2,7 +2,7 @@
 title: "Chantier ouvert à la Pépille"
 eventDate: 2023-08-25T09:00:00Z
 eventReadableDate: "Vendredi 25 août 2023"
-eventReadableTime: "09h - 17h30"
+eventReadableTime: "10h - 17h"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
 picture: "/uploads/20230825_Pepille.jpg"
