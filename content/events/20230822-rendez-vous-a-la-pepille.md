@@ -28,6 +28,7 @@ Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque
 ### Les dates des chantiers ouverts
 
 - mercredi 30 août, 9h30 - 12h30
+- dimanche 03 septembre, 9h30 - 12h30
 - mercredi 13 septembre, 9h30 - 12h30
 - mercredi 20 septembre, 9h30 - 12h30
 - dimanche 24 septembre, 9h30 - 12h30
