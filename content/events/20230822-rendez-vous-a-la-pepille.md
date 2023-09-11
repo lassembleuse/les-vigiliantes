@@ -30,7 +30,9 @@ Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque
 - mercredi 30 août, 9h30 - 12h30
 - dimanche 03 septembre, 9h30 - 12h30
 - mercredi 13 septembre, 9h30 - 12h30
+- vendredi 15 septembre, 13h30 - 17h00
 - mercredi 20 septembre, 9h30 - 12h30
+- vendredi 22 septembre, 13h30 - 17h00
 - dimanche 24 septembre, 9h30 - 12h30
 - mercredi 27 septembre, 9h30 - 12h30
 
