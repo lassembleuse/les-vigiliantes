@@ -23,11 +23,21 @@ Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque
 - montage de toilettes sèches,
 - fauchage des allées,
 - préparation du terrain pour bouture, plantations...
+- entretien de la Pépille,
 - création de signalétique...
 
 ### Les dates des chantiers ouverts
 
+Fin septembre :
+
+- mercredi 20 septembre, 9h30 - 12h30
+- vendredi 22 septembre, 14h00 - 17h00
+- dimanche 24 septembre, 9h30 - 12h30
+- mercredi 27 septembre, 9h30 - 12h30
 - vendredi 29 septembre, 14h - 17h00
+
+Octobre :
+
 - vendredi 6 octobre, 9h30 - 17h00
 - dimanche 29 octobre, 9h30 - 12h30
 
