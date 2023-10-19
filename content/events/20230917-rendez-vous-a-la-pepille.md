@@ -20,26 +20,14 @@ Jusqu'au 7, on continue le marathon de l'aménagement (c'est le sprint final !),
 Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque session :
 
 - montage de la serre (tunnel maraîcher de 5m x 12m) (et oui, c'est pas encore fini),
-- montage de toilettes sèches,
-- fauchage des allées,
 - préparation du terrain pour bouture, plantations...
-- entretien de la Pépille,
-- création de signalétique...
+- entretien de la Pépille...
 
 ### Les dates des chantiers ouverts
 
-Fin septembre :
-
-- mercredi 20 septembre, 9h30 - 12h30
-- vendredi 22 septembre, 14h00 - 17h00
-- dimanche 24 septembre, 9h30 - 12h30
-- mercredi 27 septembre, 9h30 - 12h30
-- vendredi 29 septembre, 14h - 17h00
-
-Octobre :
-
 - vendredi 6 octobre, 9h30 - 17h00
-- dimanche 29 octobre, 9h30 - 12h30
+- mercredi 25 octobre, 9h30 - 12h30 : focus montage tunnel ! (montage des façades)
+- dimanche 29 octobre, 10h00 - 12h30 : focus implantation de la mare ! (pose des tissus en fond de mare)
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
@@ -47,5 +35,3 @@ Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
 - Le terrain est situé derrière le Super U. [Plan du lieu](https://www.openstreetmap.org/#map=17/48.44885/-2.01522&layers=N)
 - Possibilité de se garer sur le parking de Super U si vous venez motorisé
-<!--more-->
-
