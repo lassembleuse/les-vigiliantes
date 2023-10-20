@@ -30,6 +30,12 @@ Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque
 - vendredi 27 octobre, 14h00 - 17h30 : focus montage tunnel !
 - dimanche 29 octobre, 10h00 - 12h30 : focus implantation de la mare ! (pose des tissus en fond de mare)
 
+Dates prévisionnelles + éloignées dépendantes de la météo :
+
+- mercredi 15 novembre, 9h30 - 12h30
+- mercredi 22 novembre, 9h30 - 12h30
+- dimanche 26 novembre, 10h00 - 12h30
+
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
 **Pour venir :**
