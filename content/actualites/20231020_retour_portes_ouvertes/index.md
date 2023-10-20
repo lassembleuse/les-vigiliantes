@@ -19,9 +19,9 @@ Avec un peu de chance, ce ne sera pas la dernière !
 
 Quelques photos et vidéos :
 
-![Vidéo de présentation des portes ouvertes](portes_ouvertes_ti_rouffs.mp4)
-*Un aperçu en mouvement des portes ouvertes !*
-
+<video width="480" height="864" controls>
+  <source src="portes_ouvertes_ti_rouffs.mp4" type="video/mp4">
+</video>
 
 ![Vue d'ensemble (toilettes, panneaux, serre au loin) dans l'attente des premières visites](installation_01.jpg)
 *Vue d'ensemble, dans l'attente des premières visites*
@@ -36,7 +36,7 @@ Quelques photos et vidéos :
 *Une visite de la Pépille en petit comité (photo Juliana Hillman)*
 
 ![Autre aperçu de visites de la Pépille](visite_02.jpg)
-*Autre aperçu de visites de la Pépille  (photo Juliana Hillman)*
+*Autre aperçu de visites de la Pépille (photo Juliana Hillman)*
 
 
 
