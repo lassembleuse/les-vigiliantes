@@ -16,7 +16,7 @@ Une fois la présentation terminée, les participantes et participants à l'atel
 
 Quelques photos :
 
-<section class="splide" data-splide='{"autoWidth":"true"}' aria-label="Diaporama initiation bouture">
+<section class="splide" data-splide='' aria-label="Diaporama initiation bouture">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide" style="width: 600px">
