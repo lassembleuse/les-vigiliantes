@@ -23,21 +23,43 @@ Quelques photos et vidéos :
   <source src="portes_ouvertes_ti_rouffs.mp4" type="video/mp4">
 </video>
 
-![Vue d'ensemble (toilettes, panneaux, serre au loin) dans l'attente des premières visites](installation_01.jpg)
-*Vue d'ensemble, dans l'attente des premières visites*
 
-![Vue d'ensemble (coins enfant) dans l'attente des premières visites](installation_03.jpg)
-*Vue d'ensemble, dans l'attente des premières visites*
-
-![L'écureuil d'accueil en ardoise, sur un touret, sous la toile tendue](installation_02.jpg)
-*L'écureuil d'accueil, sous la toile tendue*
-
-![Une visite de la Pépille en petit comité](visite_01.jpg)
-*Une visite de la Pépille en petit comité (photo Juliana Hillman)*
-
-![Autre aperçu de visites de la Pépille](visite_02.jpg)
-*Autre aperçu de visites de la Pépille (photo Juliana Hillman)*
-
+<section class="splide" aria-label="Diaporama initiation bouture">
+  <div class="splide__track">
+		<ul class="splide__list">
+			<li class="splide__slide">
+        <img src="installation_01.jpg" alt="Vue d'ensemble (toilettes, panneaux, serre au loin) dans l'attente des premières visites">
+        <div>
+					Vue d'ensemble, dans l'attente des premières visites
+				</div>
+      </li>
+			<li class="splide__slide">
+        <img src="installation_03.jpg" alt="Vue d'ensemble (coins enfant) dans l'attente des premières visites">
+        <div>
+					Vue d'ensemble, dans l'attente des premières visites
+				</div>
+      </li>
+			<li class="splide__slide">
+        <img src="installation_02.jpg" alt="L'écureuil d'accueil en ardoise, sur un touret, sous la toile tendue">
+        <div>
+					L'écureuil d'accueil, sous la toile tendue
+				</div>
+      </li>
+			<li class="splide__slide">
+        <img src="visite_01.jpg" alt="Une visite de la Pépille en petit comité">
+        <div>
+					Une visite de la Pépille en petit comité (photo Juliana Hillman)
+				</div>
+      </li>
+			<li class="splide__slide">
+        <img src="visite_02.jpg" alt="Autre aperçu de visites de la Pépille">
+        <div>
+					Autre aperçu de visites de la Pépille (photo Juliana Hillman)
+				</div>
+      </li>
+		</ul>
+  </div>
+</section>
 
 
 
