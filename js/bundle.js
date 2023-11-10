@@ -46,4 +46,8 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // CARROUSSEL =====================================================
+  var splide = new Splide( '.splide' );
+  splide.mount();
+
 });
