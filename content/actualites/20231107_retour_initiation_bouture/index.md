@@ -2,7 +2,7 @@
 title: "Retour sur l'initiation à la taille des petits fruitiers et bouture'"
 date: 2023-11-05T19:45:08+02:00
 draft: false
-picture: "/IMG_20231104_112651.jpg"
+picture: "/uploads/20231104_initiation_bouture.jpg"
 slider: true
 ---
 
