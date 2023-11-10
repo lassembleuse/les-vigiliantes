@@ -16,28 +16,28 @@ Une fois la présentation terminée, les participantes et participants à l'atel
 
 Quelques photos :
 
-<section class="splide" data-splide='{"height":"350px"}' aria-label="Diaporama initiation bouture">
+<section class="splide" data-splide='{"autoWidth":"true"}' aria-label="Diaporama initiation bouture">
   <div class="splide__track">
 		<ul class="splide__list">
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 600px">
         <img src="IMG_20231104_102427.jpg" alt="Présentation de son kit à bouture par Benjamin : une structure en bois léger composé de cases, pour caler les sécateurs, le petit matériel, et les boutures (dans une moitiée de bouteille en plastique avec de l'eau au fond)">
       </li>
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 600px">
         <img src="IMG_20231104_102434.jpg" alt="Plan rapproché sur le kit à bouture de Benjamin : une structure en bois léger composé de cases, pour caler les sécateurs, le petit matériel, et les boutures (dans une moitiée de bouteille en plastique avec de l'eau au fond)">
       </li>
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 300px">
         <img src="IMG_20231104_102706.jpg" alt="Début de schéma de la coupe de petits fruitiers sur tableau noir">
       </li>
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 600px">
         <img src="IMG_20231104_112651.jpg" alt="Démonstration de coupe de petits fruitiers">
       </li>
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 300px">
         <img src="IMG_20231104_114801.jpg" alt="Implantation des boutures : distance de 5cm sur la ligne, l'épaisseur d'un instrument à désherber entre les lignes (ici, un rateau aide à rester droit)">
       </li>
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 600px">
         <img src="IMG_20231104_121850.jpg" alt="Poursuite de l'implantation des boutures">
       </li>
-			<li class="splide__slide">
+			<li class="splide__slide" style="width: 600px">
         <img src="IMG_20231104_121903.jpg" alt="Discussions finales">
       </li>
 		</ul>
