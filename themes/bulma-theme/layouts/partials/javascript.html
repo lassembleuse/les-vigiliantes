@@ -2,3 +2,8 @@
 {{ $base := resources.Get "js/base.js" }}
 {{ $js := slice $plugins $base | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.RelPermalink }}"></script>
+
+  <!-- Diaporama -->
+{{ if .Slider }}
+  <script src=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js "></script>
+{{ end }}
