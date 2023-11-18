@@ -28,7 +28,7 @@ Avertissement : on entre dans une période de forte dépendance à la météo. E
 Dates prévisionnelles
 
 - mercredi 15 novembre, 9h30 - 12h30
-- mercredi 22 novembre, 9h30 - 12h30
+- dimanche 19 novembre, 14h30 - 16h30
 - dimanche 26 novembre, 10h00 - 12h30
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
