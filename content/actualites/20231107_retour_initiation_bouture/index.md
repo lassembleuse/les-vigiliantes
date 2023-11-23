@@ -41,6 +41,12 @@ Quelques photos :
 			<li class="splide__slide">
         <img src="IMG_20231104_121903.jpg" alt="Discussions finales">
       </li>
+			<li class="splide__slide">
+        <img src="IMG_20231115_125133.jpg" alt="Vue finale des boutures, bien ordonnées">
+      </li>
+			<li class="splide__slide">
+        <img src="IMG_20231115_125152.jpg" alt="Zoom sur les boutures et leurs petits panneaux">
+      </li>
 		</ul>
   </div>
 </section>
