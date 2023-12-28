@@ -1,17 +1,15 @@
 ---
-title: "Chantiers ouverts à la Pépille - décembre 2023"
-eventDate: 2023-12-31T10:00:00Z
-eventReadableDate: "Décembre 2023"
+title: "Chantiers ouverts à la Pépille - janvier 2024"
+eventDate: 2024-01-31T10:00:00Z
+eventReadableDate: "Janvier 2024"
 eventReadableTime: ""
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20231231_Pepille.jpg"
+picture: "/uploads/20240131_Pepille.jpg"
 published: true
 ---
 
-En ce mois de décembre, on improvise des temps sur place en fonction des disponibilités et de la météo !
-
-N'hésitez pas à repasser de temps en temps sur cette page, des dates pourraient faire leur apparition.
+En attendant de faire une rétrospective en bonne et due forme, voici déjà quelques premières dates pour début 2024 !
 
 <!--more-->
 
@@ -23,7 +21,7 @@ Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque
 - boutures,
 - montage de la serre (tunnel maraîcher de 5m x 12m)
 - entretien du bosquet nourricier : densification et couverture du sol
-- entretien de la pépinière : désherbage
+- entretien de la pépinière (paillage, désherbage)
 
 ### Les dates des chantiers ouverts
 
@@ -31,10 +29,9 @@ Avertissement : on entre dans une période de forte dépendance à la météo. E
 
 Dates prévisionnelles
 
-- vendredi 08 décembre, 9h30 - 12h30
-- mercredi 13 décembre, 10h00 - 12h30
-- mercredi 20 décembre, 10h00 - 12h30
-- dimanche 31 décembre, 10h00 - 12h30
+- mercredi 10 janvier, 10h00 - 12h30
+- mercredi 17 janvier, 10h00 - 12h30
+- dimanche 28 janvier, 10h00 - 12h30
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
