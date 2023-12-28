@@ -21,7 +21,7 @@ Les chantiers fil rouges du mois, sur lesquels vous pourrez intervenir à chaque
 
 - plantations,
 - boutures,
-- montage de la serre (tunnel maraîcher de 5m x 12m)
+- montage de la serre (tunnel maraîcher de 5m x 12m) : escabeaux, visseuses et pelles bienvenues !
 - entretien du bosquet nourricier : densification et couverture du sol
 - entretien de la pépinière : désherbage
 
