@@ -34,6 +34,7 @@ Dates prévisionnelles
 - vendredi 08 décembre, 9h30 - 12h30
 - mercedi 13 décembre, 10h00 - 12h30
 - mercedi 20 décembre, 10h00 - 12h30
+- dimanche 31 décembre, 10h00 - 12h30
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
