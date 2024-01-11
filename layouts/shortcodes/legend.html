@@ -1,0 +1,7 @@
+{{ if .Get "text" }}
+{{ $text := .Get "text" | default "" }}
+
+<div class="legend">
+   {{ $text }}
+</div>
+{{ end }}

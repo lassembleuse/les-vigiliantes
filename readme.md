@@ -4,7 +4,7 @@ https://lassembleuse.github.io/les-vigiliantes/
 
 ## Commands
 
-hugo server -D --verbose --watch
+hugo server -D --logLevel infov --watch
 
 ## Add a theme
 
