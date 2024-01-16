@@ -16,8 +16,6 @@ Les vigiliantes, c'est un néologisme né de la rencontre entre "vigilance" et "
 
 Les vigiliantes, c'est un collectif de citoyennes et citoyens créé en 2019 qui agit pour l'autonomie alimentaire et la résilience locale sur Dinan agglomération, dans un contexte d'urgence climatique.
 
-Les vigiliantes, c'est également un groupe local [Terre de Liens](https://terredeliens.org/).
-
 ## Nos objectifs
 
 ### Faire du lien
