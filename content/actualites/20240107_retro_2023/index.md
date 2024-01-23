@@ -112,6 +112,13 @@ Alors, qu'a-t-on fait quand on n'était pas sur la parcelle ?
 - Novembre : Intervention durant la Semaine du Développement Durable du lycée Fontaine des Eaux, autour de l'atelier "Inventons nos vie bas carbone"
 - participation à bon nombre de temps de réflexions, notamment auprès de Dinan Agglomération : ateliers SCOT, atelier Rupture Alimentaire, retour du programme de recherche Atlass 2...
 
+## Quelques chiffres
+
+2023, c'est : 
+- une cinquantaine d'événements organisés (chantiers ouverts, initiation, visites, portes ouvertes...)
+- environ 450 "entrées" en cumulé
+- une soixantaine de greffes
+- une centaine de plantations...
 
 Durant cette année, on n'a pas avancé seuls, mais aidé par une multitude de personnes. Des asso, des collectifs, des particuliers... Un **immense merci** à toutes celles et ceux qui sont passés à la Pépille !
 
