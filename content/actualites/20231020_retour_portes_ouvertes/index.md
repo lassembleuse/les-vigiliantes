@@ -10,13 +10,14 @@ Quelles furent douces, ces portes ouvertes sous un soleil éclatant tout à fait
 
 Des curieux et curieuses du coin, des connaissances d'un peu plus loin, de l'intérêt, de la bonne humeur...
 
+<!--more-->
+
 On a été ravi de vous croiser à la buvette et de vous faire visiter notre terrain de jeu !
 
 On espère que ça vous a plu autant qu'on a pris plaisir à vous accueillir.
 
 Avec un peu de chance, ce ne sera pas la dernière !
 
-<!--more-->
 
 Quelques photos et vidéos :
 

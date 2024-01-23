@@ -30,7 +30,7 @@ Avertissement : on entre dans une période de forte dépendance à la météo. E
 Dates prévisionnelles
 
 - mercredi 10 janvier, 10h00 - 12h30
-- vendredi 19 janvier, 14h00 - 16h30
+- vendredi 26 janvier, 14h00 - 16h30
 - dimanche 28 janvier, 10h00 - 12h30
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
