@@ -5,7 +5,7 @@ eventReadableDate: "Février 2024"
 eventReadableTime: ""
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20240120_Pepille.jpg"
+picture: "/uploads/20240205_Pepille.jpg"
 published: true
 ---
 
