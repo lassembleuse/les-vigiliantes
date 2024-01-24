@@ -115,6 +115,7 @@ Alors, qu'a-t-on fait quand on n'était pas sur la parcelle ?
 ## Quelques chiffres
 
 2023, c'est : 
+
 - une cinquantaine d'événements organisés (chantiers ouverts, initiation, visites, portes ouvertes...)
 - environ 450 "entrées" en cumulé
 - une soixantaine de greffes
