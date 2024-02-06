@@ -1,6 +1,6 @@
 ---
 title: "Chantiers ouverts à la Pépille - février 2024"
-eventDate: 2024-01-31T10:00:00Z
+eventDate: 2024-02-29T10:00:00Z
 eventReadableDate: "Février 2024"
 eventReadableTime: ""
 locationStreet: "La Pépille, lieu dit les Rouffes"
