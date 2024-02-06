@@ -81,7 +81,7 @@ Rendez-vous au printemps pour voir ce qui aura pris !
 
 - Juin : Assemblée générale
 
-![Plein de personnes posent](assemblee-generale.png)
+![Plein de personnes posent](20230605_AG_vigiliantes.png)
 {{< legend text="La pose de l'assemblée générale">}}
 
 - Juin : Initiation Fauchage
