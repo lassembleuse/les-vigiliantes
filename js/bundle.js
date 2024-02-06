@@ -47,7 +47,12 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // CARROUSSEL =====================================================
-  var splide = new Splide( '.splide' );
-  splide.mount();
+
+  let sliderPresence = (document.querySelectorAll('.splide').length > 0)
+  if (sliderPresence) {
+    console.log(sliderPresence)
+    var splide = new Splide( '.splide' );
+    splide.mount();
+  }
 
 });
