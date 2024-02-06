@@ -32,9 +32,8 @@ Avertissement : on est dans une période de forte dépendance à la météo. En 
 
 Dates prévisionnelles
 
-- mercredi 07 février, 10h00 - 12h30
+- mercredi 14 février, 10h00 - 12h30
 - vendredi 16 février, 14h00 - 16h30
-- mercredi 21 février, 10h00 - 12h30
 - vendredi 23 février, 14h00 - 16h30
 - dimanche 25 février, 10h00 - 12h30
 
