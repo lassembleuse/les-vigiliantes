@@ -22,7 +22,7 @@ A partir de témoignages d’agriculteur.ice.s, de chercheur.euse.s ou de techni
 
 ## Un temps d'échange pour interroger l'adaptation de nos agricultures localement
 
-A l'issue de la projection, un temps d'échange permettra de recontextualiser les défis abordés dans le documentaire sur notre territoire. Des agriculteurs et agricultrices aux pratiques variées viendront témoigner de l'impact des changements climatiques sur leurs activités et sur leurs moyens d'adaptation.
+A l'issue de la projection, un temps d'échange permettra de recontextualiser les défis abordés dans le documentaire sur notre territoire. Des agriculteurs et agricultrices aux pratiques variées viendront témoigner de l'impact des changements climatiques sur leurs activités et de leurs moyens d'adaptation.
 
 Ce sera l'occasion d'échanger collectivement sur ce qui est fait et pourrait être fait pour rendre notre agriculture et notre alimentation plus résilientes, ici et maintenant.
 
@@ -39,8 +39,4 @@ Film documentaire réalisé par Nathanaël Coste
 Durée : 1h38
 Sortie Nationale le 27 mars 2024
 Plus d'infos sur le film : https://www.latheorieduboxeur.fr 
-
-**Temps d'échange avec :**
-- Sabrina Piedevache, productrice et transformatrice de fruits
-- Pascal Lhermitte, gérant de la ferme de la moinerie
 
