@@ -29,7 +29,7 @@ Avertissement : on reste toujours tributaire de la météo et en cas de déluge,
 
 Dates prévisionnelles
 
-- mercredi 13 mars, 10h00 - 12h30
+- mercredi 13 mars, 10h00 - 12h30 : greffage des pommiers !
 - mercredi 20 mars, 10h00 - 12h30
 - vendredi 22 mars, 14h00 - 16h30
 - dimanche 31 mars, 10h00 - 12h30
