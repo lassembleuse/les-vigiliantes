@@ -1,7 +1,7 @@
 ---
 title: "Projection La Théorie du Boxeur et temps d'échange"
 eventDate: 2024-03-13T20:00:00Z
-eventReadableDate: "Mercredi 23 mars 2024"
+eventReadableDate: "Mercredi 13 mars 2024"
 eventReadableTime: "20h15"
 locationStreet: "Emeraude cinéma, 4 route de Dinard "
 locationCity: "22100 Dinan"
