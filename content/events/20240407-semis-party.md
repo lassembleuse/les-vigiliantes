@@ -9,7 +9,7 @@ picture: "/uploads/20240430_semis-party.jpg"
 published: true
 ---
 
-Fin avril, on vous convie à une "semis party" (et si on a bien bossé, une fête de fin de chantier), et on prolonge par un pique-nique partagé.
+Fin avril, on vous convie à une "semis party" doublée d'une fête de fin de chantier, et on prolonge par un pique-nique partagé.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Activité familiale ouverte à toutes et tous, quelles que soient vos compétenc
 
 ## On prolonge ?
 
-Si tout va bien, on aura fini un gros bout d'aménagement, avec le montage de notre cabanon de stockage et du tunnel. On vous fait visiter ?
+En plus, on aura fini un gros bout d'aménagement, avec le montage de notre cabanon de stockage et du tunnel. On vous fait visiter ?
 
 Et pour fêter tout ça, prolongeons ensemble ! Vous resterez bien pique-niquer avec nous ?
 

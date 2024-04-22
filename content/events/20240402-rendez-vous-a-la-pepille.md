@@ -31,7 +31,7 @@ Dates prévisionnelles
 - **vendredi 12 avril, 14h00 - 16h30** : on bâche au moins un pignon, allez !
 - **mercredi 17 avril, 10h00 - 12h30** : on continue le tunnel ou on bichônne le jardin, suivant les forces en présence (désherbage de la pépinière, mise en place de broyat, installation de couvre-sols...)
 - **vendredi 19 avril, 14h00 - 16h30** : on continue le tunnel ou on bichônne le jardin, suivant les forces en présence (désherbage de la pépinière, mise en place de broyat, installation de couvre-sols...)
-- **mercredi 24 avril, 10h00 - 12h30** : on continue le tunnel ou on bichônne le jardin, suivant les forces en présence (désherbage de la pépinière, mise en place de broyat, installation de couvre-sols...) 
+- **mercredi 24 avril, 10h00 - 12h30** : session de greffe en couronne sur les arbres précédemment greffés qui n'ont pas pris !
 -  **vendredi 26 avril, 14h00 - 16h30** : préparation de la "semis party" (grelinette et tutti quanti)
 - **dimanche 28 avril, 10h00 - 12h30** : Fête de fin de chantiers et semis party !
   
