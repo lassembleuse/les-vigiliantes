@@ -1,5 +1,5 @@
 ---
-title: "De la couleur à la Pépille"
+title: "Fresque participative - De la couleur à la Pépille"
 eventDate: 2024-09-08T10:00:00Z
 eventReadableDate: "Dimanche 8 septembre 2024"
 eventReadableTime: "10h - 12h30"
@@ -19,7 +19,7 @@ Grâce à une session enthousiaste de peinture participatif proposée par l'arti
 
 Tout le monde peut participer : vous en êtes ?
 
-Amenez de quoi 
+Prévoir des vêtements qui ne craignent pas les tâches !
 
 **Pour venir :**
 
