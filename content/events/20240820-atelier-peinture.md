@@ -1,14 +1,14 @@
 ---
-title: "ANNULÉ ! Fresque participative - De la couleur à la Pépille"
-eventDate: 2024-09-08T10:00:00Z
-eventReadableDate: "Dimanche 8 septembre 2024"
+title: "Fresque participative - De la couleur à la Pépille"
+eventDate: 2024-09-14T10:00:00Z
+eventReadableDate: "Samedi 14 septembre 2024"
 eventReadableTime: "10h - 12h30"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
 picture: "/uploads/20240908_peinture.jpg"
 published: true
 ---
-*Et voilà, nous avons succombé à la malédiction de la fresque qui veut que à la date prévue pour peindre, il y a 9 chances sur 10 qu'il pleuve des cordes... On cherche une nouvelle date, on vous tiendra au courant !*
+
 
 
 Depuis qu'on a installé un cabanon, on ne voit plus que lui quand on arrive à la Pépille. Et notamment son dos, moche moche moche et sans intérêt. 
@@ -27,3 +27,6 @@ Prévoir des vêtements qui ne craignent pas les tâches !
 
 Le terrain est situé derrière le Super U, possibilité de se garer sur place.
 [Plan du lieu](https://www.openstreetmap.org/#map=17/48.44885/-2.01522&layers=N)
+
+
+*PS : Initialement prévue le 07/09, la fresque a finalement été reportée une semaine + tard. En effet, nous avons succombé à la malédiction de la fresque qui veut que à la date prévue pour peindre, il y a 9 chances sur 10 qu'il pleuve... On croise les doigts pour cette nouvelle date !*

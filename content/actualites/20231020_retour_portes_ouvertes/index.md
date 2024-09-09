@@ -2,7 +2,7 @@
 title: "Retour sur les portes ouvertes de Ti Rouffs 2023"
 date: 2023-10-07T19:45:08+02:00
 draft: false
-picture: "/uploads/20231007_retour_portes_ouvertes.JPG"
+picture: "/uploads/20231007_retour_portes_ouvertes.jpg"
 slider: true
 ---
 
