@@ -1,188 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Actualités on Les Vigiliantes</title>
-    <link>https://www.vigiliantes.fr/actualites/</link>
-    <description>Recent content in Actualités on Les Vigiliantes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.vigiliantes.fr/actualites/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Rétrospective 2023</title>
-      <link>https://www.vigiliantes.fr/2024/01/retrospective-2023/</link>
-      <pubDate>Sun, 07 Jan 2024 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2024/01/retrospective-2023/</guid>
-      <description>&lt;p&gt;2023, c&amp;rsquo;était notre deuxième année à la Pépille, pépinière associative et forêt nourricière, et la 4e ou 5e année d&amp;rsquo;existence des Vigiliantes. C&amp;rsquo;est l&amp;rsquo;heure de l&amp;rsquo;exercice revigorant de la rétrospective annuelle, pour se rendre compte du chemin parcouru !&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retour sur l&#39;initiation à la taille des petits fruitiers et bouture</title>
-      <link>https://www.vigiliantes.fr/2023/11/retour-sur-linitiation-a-la-taille-des-petits-fruitiers-et-bouture/</link>
-      <pubDate>Sun, 05 Nov 2023 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2023/11/retour-sur-linitiation-a-la-taille-des-petits-fruitiers-et-bouture/</guid>
-      <description>&lt;p&gt;Samedi 4 novembre à la Pépille, nous avons accueilli Benjamin de l&amp;rsquo;Aronde - un éco-lieu très chouette qui se trouve à Languédias - pour un atelier consacré au bouturage.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retour sur les portes ouvertes de Ti Rouffs 2023</title>
-      <link>https://www.vigiliantes.fr/2023/10/retour-sur-les-portes-ouvertes-de-ti-rouffs-2023/</link>
-      <pubDate>Sat, 07 Oct 2023 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2023/10/retour-sur-les-portes-ouvertes-de-ti-rouffs-2023/</guid>
-      <description>&lt;p&gt;Quelles furent douces, ces portes ouvertes sous un soleil éclatant tout à fait anormal pour un début octobre !&lt;/p&gt;
-
-&lt;p&gt;Des curieux et curieuses du coin, des connaissances d&amp;rsquo;un peu plus loin, de l&amp;rsquo;intérêt, de la bonne humeur&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retour sur l&#39;initiation au fauchage à la faux</title>
-      <link>https://www.vigiliantes.fr/2023/06/retour-sur-linitiation-au-fauchage-a-la-faux/</link>
-      <pubDate>Tue, 20 Jun 2023 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2023/06/retour-sur-linitiation-au-fauchage-a-la-faux/</guid>
-      <description>&lt;p&gt;Même sous les averses de bruines, on peut parler fauchage !
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Actualités on Les Vigiliantes</title><link>https://www.vigiliantes.fr/actualites/</link><description>Recent content in Actualités on Les Vigiliantes</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate><atom:link href="https://www.vigiliantes.fr/actualites/index.xml" rel="self" type="application/rss+xml"/><item><title>Rétrospective 2023</title><link>https://www.vigiliantes.fr/2024/01/retrospective-2023/</link><pubDate>Sun, 07 Jan 2024 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2024/01/retrospective-2023/</guid><description>&lt;p&gt;2023, c&amp;rsquo;était notre deuxième année à la Pépille, pépinière associative et forêt nourricière, et la 4e ou 5e année d&amp;rsquo;existence des Vigiliantes. C&amp;rsquo;est l&amp;rsquo;heure de l&amp;rsquo;exercice revigorant de la rétrospective annuelle, pour se rendre compte du chemin parcouru !&lt;/p&gt;</description></item><item><title>Retour sur l&#39;initiation à la taille des petits fruitiers et bouture</title><link>https://www.vigiliantes.fr/2023/11/retour-sur-linitiation-a-la-taille-des-petits-fruitiers-et-bouture/</link><pubDate>Sun, 05 Nov 2023 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2023/11/retour-sur-linitiation-a-la-taille-des-petits-fruitiers-et-bouture/</guid><description>&lt;p&gt;Samedi 4 novembre à la Pépille, nous avons accueilli Benjamin de l&amp;rsquo;Aronde - un éco-lieu très chouette qui se trouve à Languédias - pour un atelier consacré au bouturage.&lt;/p&gt;</description></item><item><title>Retour sur les portes ouvertes de Ti Rouffs 2023</title><link>https://www.vigiliantes.fr/2023/10/retour-sur-les-portes-ouvertes-de-ti-rouffs-2023/</link><pubDate>Sat, 07 Oct 2023 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2023/10/retour-sur-les-portes-ouvertes-de-ti-rouffs-2023/</guid><description>&lt;p&gt;Quelles furent douces, ces portes ouvertes sous un soleil éclatant tout à fait anormal pour un début octobre !&lt;/p&gt;
+&lt;p&gt;Des curieux et curieuses du coin, des connaissances d&amp;rsquo;un peu plus loin, de l&amp;rsquo;intérêt, de la bonne humeur&amp;hellip;&lt;/p&gt;</description></item><item><title>Retour sur l&#39;initiation au fauchage à la faux</title><link>https://www.vigiliantes.fr/2023/06/retour-sur-linitiation-au-fauchage-a-la-faux/</link><pubDate>Tue, 20 Jun 2023 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2023/06/retour-sur-linitiation-au-fauchage-a-la-faux/</guid><description>&lt;p&gt;Même sous les averses de bruines, on peut parler fauchage !
 Samedi 10 juin avait lieu notre première initiation au fauchage à la faux, avec Mikaël du Jardin des Hérissons.&lt;/p&gt;
-
 &lt;p&gt;Un atelier hyper riche, où on a parlé de :&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;le pouvoir méditatif du fauchage au point du jour&lt;/li&gt;
 &lt;li&gt;la différence entre faux et fauchon, quand utilisé l&amp;rsquo;une ou l&amp;rsquo;autre&lt;/li&gt;
 &lt;li&gt;gomme abrasive, marteau, enclume, pierre à aiguiser&amp;hellip; ou l&amp;rsquo;art d&amp;rsquo;entretenir sa faux&lt;/li&gt;
 &lt;li&gt;et puis essai de fauche sur la parcelle !&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retour sur l&#39;assemblée générale 2023</title>
-      <link>https://www.vigiliantes.fr/2023/06/retour-sur-lassemblee-generale-2023/</link>
-      <pubDate>Thu, 08 Jun 2023 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2023/06/retour-sur-lassemblee-generale-2023/</guid>
-      <description>&lt;p&gt;Nous étions une quinzaine présentes et présents pour l&amp;rsquo;Assemblée Générale 2023 ! Faire le bilan, c&amp;rsquo;est un exercice souvent bienvenu pour se rappeler pourquoi on fait ce qu&amp;rsquo;on fait, ce qui a déjà été fait et ce qu&amp;rsquo;il reste à faire.&lt;/p&gt;
-
+&lt;/ul&gt;</description></item><item><title>Retour sur l&#39;assemblée générale 2023</title><link>https://www.vigiliantes.fr/2023/06/retour-sur-lassemblee-generale-2023/</link><pubDate>Thu, 08 Jun 2023 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2023/06/retour-sur-lassemblee-generale-2023/</guid><description>&lt;p&gt;Nous étions une quinzaine présentes et présents pour l&amp;rsquo;Assemblée Générale 2023 ! Faire le bilan, c&amp;rsquo;est un exercice souvent bienvenu pour se rappeler pourquoi on fait ce qu&amp;rsquo;on fait, ce qui a déjà été fait et ce qu&amp;rsquo;il reste à faire.&lt;/p&gt;
 &lt;p&gt;Pour résumer, en 2023-24, on devrait :&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;poursuivre l&amp;rsquo;aménagement de la Pépille&lt;/li&gt;
 &lt;li&gt;essayer de lancer l&amp;rsquo;accueil de scolaires&lt;/li&gt;
 &lt;li&gt;on aimerait aussi relancer des conférences / débats autour de l&amp;rsquo;agriculture / l&amp;rsquo;alimentation / l&amp;rsquo;environnement, mais pour cela des forces vives seraient bienvenues !&lt;/li&gt;
 &lt;li&gt;continuer autant que possible à favoriser l&amp;rsquo;engagement et tisser des connections pour un territoire plus résilient&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Vous retrouverez ceci plus en détail dans nos rapports et les articles de presse, ci-dessous !&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retour sur l&#39;atelier greffe</title>
-      <link>https://www.vigiliantes.fr/2023/02/retour-sur-latelier-greffe/</link>
-      <pubDate>Sat, 18 Feb 2023 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2023/02/retour-sur-latelier-greffe/</guid>
-      <description>&lt;p&gt;Dimanche 5 février, c&amp;rsquo;était journée greffe à la Pépille ! Grâce aux précieuses informations et conseils d&amp;rsquo;Olivier Garnier, une dizaine de personnes ont pu s&amp;rsquo;initier à la greffe, et déjà une quinzaine d&amp;rsquo;arbres ont été greffé.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contre l&#39;artificialisation : suite du recours de Quévert</title>
-      <link>https://www.vigiliantes.fr/2023/01/contre-lartificialisation-suite-du-recours-de-quevert/</link>
-      <pubDate>Fri, 13 Jan 2023 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2023/01/contre-lartificialisation-suite-du-recours-de-quevert/</guid>
-      <description>&lt;p&gt;A l&amp;rsquo;occasion d&amp;rsquo;une suite au recours déposé par des habitantes et habitants de Quévert contre un nouveau lotissement, nous lançons un appel.&lt;/p&gt;
-
-&lt;p&gt;Si vous aussi vous souhaitez &lt;strong&gt;vous mobiliser sur les enjeux de l&amp;rsquo;artificialisation&lt;/strong&gt;, dans votre commune ou à l&amp;rsquo;échelle de l&amp;rsquo;agglomération, &lt;strong&gt;contactez &lt;a href=&#34;mailto:artificialisation@vigiliantes.fr&#34;&gt;artificialisation@vigiliantes.fr&lt;/a&gt;.&lt;/strong&gt; Plus on sera, plus on pourra peser et agir efficacement !&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pour un plan climat à la hauteur des enjeux</title>
-      <link>https://www.vigiliantes.fr/2022/09/pour-un-plan-climat-a-la-hauteur-des-enjeux/</link>
-      <pubDate>Thu, 01 Sep 2022 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2022/09/pour-un-plan-climat-a-la-hauteur-des-enjeux/</guid>
-      <description>&lt;p&gt;Alors que la Bretagne, comme le reste de la France, sort d’un été caniculaire qui laisse les nappes phréatiques plus vides que jamais, et fait planer sur la fin d’année des risques de coupures d’eau et d’électricité, Dinan Agglomération propose à la consultation du public son &lt;a href=&#34;https://www.dinan-agglomeration.fr/Actualites/Plan-Climat-Air-Energie-Territorial-donnez-votre-avis&#34;&gt;Plan Climat Air Energie Territoriale&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Vous retrouverez ceci plus en détail dans nos rapports et les articles de presse, ci-dessous !&lt;/p&gt;</description></item><item><title>Retour sur l&#39;atelier greffe</title><link>https://www.vigiliantes.fr/2023/02/retour-sur-latelier-greffe/</link><pubDate>Sat, 18 Feb 2023 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2023/02/retour-sur-latelier-greffe/</guid><description>&lt;p&gt;Dimanche 5 février, c&amp;rsquo;était journée greffe à la Pépille ! Grâce aux précieuses informations et conseils d&amp;rsquo;Olivier Garnier, une dizaine de personnes ont pu s&amp;rsquo;initier à la greffe, et déjà une quinzaine d&amp;rsquo;arbres ont été greffé.&lt;/p&gt;</description></item><item><title>Contre l&#39;artificialisation : suite du recours de Quévert</title><link>https://www.vigiliantes.fr/2023/01/contre-lartificialisation-suite-du-recours-de-quevert/</link><pubDate>Fri, 13 Jan 2023 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2023/01/contre-lartificialisation-suite-du-recours-de-quevert/</guid><description>&lt;p&gt;A l&amp;rsquo;occasion d&amp;rsquo;une suite au recours déposé par des habitantes et habitants de Quévert contre un nouveau lotissement, nous lançons un appel.&lt;/p&gt;
+&lt;p&gt;Si vous aussi vous souhaitez &lt;strong&gt;vous mobiliser sur les enjeux de l&amp;rsquo;artificialisation&lt;/strong&gt;, dans votre commune ou à l&amp;rsquo;échelle de l&amp;rsquo;agglomération, &lt;strong&gt;contactez &lt;a href=&#34;mailto:artificialisation@vigiliantes.fr&#34;&gt;artificialisation@vigiliantes.fr&lt;/a&gt;.&lt;/strong&gt; Plus on sera, plus on pourra peser et agir efficacement !&lt;/p&gt;</description></item><item><title>Pour un plan climat à la hauteur des enjeux</title><link>https://www.vigiliantes.fr/2022/09/pour-un-plan-climat-a-la-hauteur-des-enjeux/</link><pubDate>Thu, 01 Sep 2022 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2022/09/pour-un-plan-climat-a-la-hauteur-des-enjeux/</guid><description>&lt;p&gt;Alors que la Bretagne, comme le reste de la France, sort d’un été caniculaire qui laisse les nappes phréatiques plus vides que jamais, et fait planer sur la fin d’année des risques de coupures d’eau et d’électricité, Dinan Agglomération propose à la consultation du public son &lt;a href=&#34;https://www.dinan-agglomeration.fr/Actualites/Plan-Climat-Air-Energie-Territorial-donnez-votre-avis&#34;&gt;Plan Climat Air Energie Territoriale&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Nous, habitantes et habitants inquiets des défis à relever, fondions beaucoup d’espoirs sur ce document qui définit la stratégie de lutte contre le changement climatique sur notre territoire pour les 6 prochaines d’années.&lt;/p&gt;
-
-&lt;p&gt;Malheureusement, le compte n&amp;rsquo;y est pas.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Recours à Quévert contre l&#39;étalement urbain</title>
-      <link>https://www.vigiliantes.fr/2022/08/recours-a-quevert-contre-letalement-urbain/</link>
-      <pubDate>Mon, 01 Aug 2022 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2022/08/recours-a-quevert-contre-letalement-urbain/</guid>
-      <description>&lt;p&gt;Les habitants de Quévert s&amp;rsquo;inquiètent de la multiplication des nouveaux lotissements, et on les comprend.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lancement de la Pépille, pépinière citoyenne</title>
-      <link>https://www.vigiliantes.fr/2021/11/lancement-de-la-pepille-pepiniere-citoyenne/</link>
-      <pubDate>Tue, 23 Nov 2021 19:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2021/11/lancement-de-la-pepille-pepiniere-citoyenne/</guid>
-      <description>&lt;p&gt;On lance une pépinière collective et citoyenne à Lanvallay. L’objectif : apprendre à multiplier les arbres et renaturer les espaces libres de l’agglomération.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Plantation à Din&#39;en Bio</title>
-      <link>https://www.vigiliantes.fr/2021/11/plantation-a-dinen-bio/</link>
-      <pubDate>Mon, 22 Nov 2021 18:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2021/11/plantation-a-dinen-bio/</guid>
-      <description>&lt;p&gt;Une première plantation citoyenne et collective à Din’en Bio, Quévert, le 20 février 2022 !&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lettre à celles et ceux qui pensent que l&#39;agriculture bio ne pourra jamais nous nourrir</title>
-      <link>https://www.vigiliantes.fr/2021/01/lettre-a-celles-et-ceux-qui-pensent-que-lagriculture-bio-ne-pourra-jamais-nous-nourrir/</link>
-      <pubDate>Fri, 22 Jan 2021 18:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2021/01/lettre-a-celles-et-ceux-qui-pensent-que-lagriculture-bio-ne-pourra-jamais-nous-nourrir/</guid>
-      <description>&lt;p&gt;En réponse à Mr Incrédule, élu local qui ne croit pas en l&amp;rsquo;agriculture biologique et ne veut pas voir de contraintes supplémentaires s&amp;rsquo;imposer aux agriculteurs de son territoire.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Week-end nourricier, le compte-rendu</title>
-      <link>https://www.vigiliantes.fr/2020/09/week-end-nourricier-le-compte-rendu/</link>
-      <pubDate>Fri, 11 Sep 2020 18:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2020/09/week-end-nourricier-le-compte-rendu/</guid>
-      <description>&lt;p&gt;Compte-rendu du &lt;a href=&#34;https://www.vigiliantes.fr/events/20200911-week-end-nourricier/&#34;&gt;week-end nourricier&lt;/a&gt; du 11, 12, 13 juin 2020.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Journée inter association alimentation, le compte-rendu</title>
-      <link>https://www.vigiliantes.fr/2020/07/journee-inter-association-alimentation-le-compte-rendu/</link>
-      <pubDate>Sun, 12 Jul 2020 18:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2020/07/journee-inter-association-alimentation-le-compte-rendu/</guid>
-      <description>&lt;p&gt;Compte-rendu de la journée de rencontre entre associations travaillant en lien avec l&amp;rsquo;alimentation, organisée le 27 juin 2020 par les vigiliantes.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Carte Producteurs confinés Pays de Dinan</title>
-      <link>https://www.vigiliantes.fr/2020/03/carte-producteurs-confines-pays-de-dinan/</link>
-      <pubDate>Wed, 25 Mar 2020 18:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2020/03/carte-producteurs-confines-pays-de-dinan/</guid>
-      <description>&lt;p&gt;Une carte pour rendre visible les nouveaux modes de distribution des producteurs locaux en période de confinement.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bonne année !</title>
-      <link>https://www.vigiliantes.fr/2020/01/bonne-annee/</link>
-      <pubDate>Wed, 01 Jan 2020 18:45:08 +0200</pubDate>
-      
-      <guid>https://www.vigiliantes.fr/2020/01/bonne-annee/</guid>
-      <description>Les Vigiliantes vous souhaitent une bonne année 2020, pleine d&amp;rsquo;engagement et de collectif !</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Malheureusement, le compte n&amp;rsquo;y est pas.&lt;/p&gt;</description></item><item><title>Recours à Quévert contre l&#39;étalement urbain</title><link>https://www.vigiliantes.fr/2022/08/recours-a-quevert-contre-letalement-urbain/</link><pubDate>Mon, 01 Aug 2022 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2022/08/recours-a-quevert-contre-letalement-urbain/</guid><description>&lt;p&gt;Les habitants de Quévert s&amp;rsquo;inquiètent de la multiplication des nouveaux lotissements, et on les comprend.&lt;/p&gt;</description></item><item><title>Lancement de la Pépille, pépinière citoyenne</title><link>https://www.vigiliantes.fr/2021/11/lancement-de-la-pepille-pepiniere-citoyenne/</link><pubDate>Tue, 23 Nov 2021 19:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2021/11/lancement-de-la-pepille-pepiniere-citoyenne/</guid><description>&lt;p&gt;On lance une pépinière collective et citoyenne à Lanvallay. L’objectif : apprendre à multiplier les arbres et renaturer les espaces libres de l’agglomération.&lt;/p&gt;</description></item><item><title>Plantation à Din&#39;en Bio</title><link>https://www.vigiliantes.fr/2021/11/plantation-a-dinen-bio/</link><pubDate>Mon, 22 Nov 2021 18:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2021/11/plantation-a-dinen-bio/</guid><description>&lt;p&gt;Une première plantation citoyenne et collective à Din’en Bio, Quévert, le 20 février 2022 !&lt;/p&gt;</description></item><item><title>Lettre à celles et ceux qui pensent que l&#39;agriculture bio ne pourra jamais nous nourrir</title><link>https://www.vigiliantes.fr/2021/01/lettre-a-celles-et-ceux-qui-pensent-que-lagriculture-bio-ne-pourra-jamais-nous-nourrir/</link><pubDate>Fri, 22 Jan 2021 18:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2021/01/lettre-a-celles-et-ceux-qui-pensent-que-lagriculture-bio-ne-pourra-jamais-nous-nourrir/</guid><description>&lt;p&gt;En réponse à Mr Incrédule, élu local qui ne croit pas en l&amp;rsquo;agriculture biologique et ne veut pas voir de contraintes supplémentaires s&amp;rsquo;imposer aux agriculteurs de son territoire.&lt;/p&gt;</description></item><item><title>Week-end nourricier, le compte-rendu</title><link>https://www.vigiliantes.fr/2020/09/week-end-nourricier-le-compte-rendu/</link><pubDate>Fri, 11 Sep 2020 18:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2020/09/week-end-nourricier-le-compte-rendu/</guid><description>&lt;p&gt;Compte-rendu du &lt;a href=&#34;https://www.vigiliantes.fr/events/20200911-week-end-nourricier/&#34;&gt;week-end nourricier&lt;/a&gt; du 11, 12, 13 juin 2020.&lt;/p&gt;</description></item><item><title>Journée inter association alimentation, le compte-rendu</title><link>https://www.vigiliantes.fr/2020/07/journee-inter-association-alimentation-le-compte-rendu/</link><pubDate>Sun, 12 Jul 2020 18:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2020/07/journee-inter-association-alimentation-le-compte-rendu/</guid><description>&lt;p&gt;Compte-rendu de la journée de rencontre entre associations travaillant en lien avec l&amp;rsquo;alimentation, organisée le 27 juin 2020 par les vigiliantes.&lt;/p&gt;</description></item><item><title>Carte Producteurs confinés Pays de Dinan</title><link>https://www.vigiliantes.fr/2020/03/carte-producteurs-confines-pays-de-dinan/</link><pubDate>Wed, 25 Mar 2020 18:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2020/03/carte-producteurs-confines-pays-de-dinan/</guid><description>&lt;p&gt;Une carte pour rendre visible les nouveaux modes de distribution des producteurs locaux en période de confinement.&lt;/p&gt;</description></item><item><title>Bonne année !</title><link>https://www.vigiliantes.fr/2020/01/bonne-annee/</link><pubDate>Wed, 01 Jan 2020 18:45:08 +0200</pubDate><guid>https://www.vigiliantes.fr/2020/01/bonne-annee/</guid><description>Les Vigiliantes vous souhaitent une bonne année 2020, pleine d&amp;rsquo;engagement et de collectif !</description></item></channel></rss>
