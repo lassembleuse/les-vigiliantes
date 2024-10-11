@@ -20,6 +20,7 @@ Et des meubles. Pour pouvoir oeuvrer même lorsqu'il pleut et accueillir dans le
 Alors, comme il va faire de plus en plus moche, on en profite pour sortir les outils, rassembler les palettes et chutes de bois, et s'y mettre un bon coup !
 
 Il y en a pour tous les goûts : 
+
 - établis / plans de travail
 - chevalet
 - panneaux
