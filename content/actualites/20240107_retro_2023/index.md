@@ -39,6 +39,7 @@ En 2022, la Pépille a été lauréate du 1er budget participatif de Dinan Agglo
 {{< legend text="À gauche cabanon de stockage en kit sous bâche, derrière un voile d'ombrage. Au milieu, un cheminement paillé, un aperçu de la serre au fond, un panneau d'affichage et tout à droite un bout du cabanon toilettes sèches">}}
 
 En plus d'un espace pépinière clôturée, on a ainsi vu émerger : 
+
 - des **toilettes** sèches,
 - une **mare** (qui sera finalisée en ce début d'année),
 ![Bâche EPDM tout juste posée dans la mare en devenir](amenagement-mare.jpg)
