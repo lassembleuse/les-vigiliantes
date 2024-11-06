@@ -18,6 +18,7 @@ Les arbres cultivés à la Pépille ont plutôt vocation à s'installer dans des
 Alors, comme les arbres ne peuvent pas rester éternellement en pépinière, on cherche des personnes qui voudraient les adopter ! 
 
 On propose : 
+
 - groseilliers
 - cassis
 - figuiers
