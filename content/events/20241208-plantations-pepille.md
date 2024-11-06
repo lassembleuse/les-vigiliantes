@@ -14,19 +14,21 @@ Cette année, on lance de nouvelles zones pour accueillir de nouveaux arbres qu'
 
 Vous n'avez jamais planté ? C'est l'occasion et on vous guide !
 
-*Si vous voulez participer à l'organisation des plantations de cet hiver, vous pouvez vous joindre à la **réunion bénévoles**, mercredi 27 novembre ! Nous écrire sur [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr) pour connaître le lieu.*
+*Si vous voulez participer à l'organisation des plantations de cet hiver, vous pouvez vous joindre à la réunion bénévoles, mercredi 27 novembre ! Nous écrire sur [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr) pour connaître le lieu.*
 
 <!--more-->
 
 
 
-Au programme : 4 nouvelles zones dont une zone "sèche", l'arrivée d'un tilleul, d'un châtaigner, d'un pcanier, d'amandiers, de yuzu, de nashi, de jujubier, de feijoa, de cognassiers, de goyaves fraises, de goyavier du Chili... et d'innombrables couvre-sols.
+**Au programme** : 4 nouvelles zones dont une zone "sèche", l'arrivée de tilleul, goyaves fraises, châtaigner, pacanier, amandiers, yuzu, nashi, jujubier, feijoa, cognassiers, goyavier du Chili... et d'innombrables couvre-sols.
 
-Mais comme on sait bien qu'il n'y en a jamais assez : n'hésitez pas à amener les couvre-sols que vous auriez en trop ! Thyms, romarins, origans, sariettes, mélisses, menthes....
+Mais comme on sait bien qu'il n'y en a jamais assez : **n'hésitez pas à amener les couvre-sols que vous auriez en trop** ! Thyms, romarins, origans, sariettes, mélisses, menthes....
 
 On a une base de matériel, mais des suppléments seront bienvenus en : 
-- bêche, louchet et autres genres de pelles
-- gants
+
+- bêche, louchet et autres genres de pelles,
+- gants,
+- éventuellement seaux et brouettes
 
 On partage l'apéro à l'issue de la plantation !
 
