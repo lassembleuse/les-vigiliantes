@@ -3,9 +3,9 @@ title: "Vente d'arbres à la Pépille"
 eventDate: 2024-12-08T10:30:00Z
 eventReadableDate: "Dimanche 8 décembre 2024"
 eventReadableTime: "10h30 - 12h30"
-locationStreet: "La Pépille, lieu dit les Rouffes"
+locationStreet: "La Pépille, lieu dit les Rouffs"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20241208_vente_Pepille.jpg"
+picture: "/uploads/20241208_vignette-plantation.png"
 published: true
 ---
 

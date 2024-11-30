@@ -5,7 +5,7 @@ eventReadableDate: "Mercredi 11 décembre 2024"
 eventReadableTime: "heure à venir"
 locationStreet: "Biocoop Élément-Terre, rue de Rennes, zone Cap Sud"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20241211_plantation_biocoop.jpg"
+picture: "/uploads/20241211_plantation_biocoop_vignette.png"
 published: true
 ---
 
@@ -19,4 +19,4 @@ Arbustes, petits fruitiers, aromatiques, fleurs... Pas loin d'une centaine de pl
 
 Et pour planter tout ça, **on va avoir besoin de vous !**
 
-Plus de détails (et une meilleure photo) à venir.
+Amenez vos gants, éventuellement vos bêches, on s'occupe du reste !
