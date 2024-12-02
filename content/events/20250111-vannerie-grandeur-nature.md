@@ -2,7 +2,7 @@
 title: "Initiation vannerie - structures vivantes"
 eventDate: 2025-01-11T09:30:00Z
 eventReadableDate: "Samedi 11 janvier 2025"
-eventReadableTime: "14h - 17h"
+eventReadableTime: "14h - 17h30"
 locationStreet: "La Pépille, lieu dit les Rouffs"
 locationCity: "22100 Lanvallay"
 picture: "/uploads/20250111_vannerie.png"
@@ -15,12 +15,12 @@ C'est quoi la vannerie structure vivante ? C'est l'art de créer des ouvrages de
 
 On a dans le coin quelques personnes qui s'y connaissent bien, et notamment Salomé, de [Pas à Pas](https://pasapas.bzh/ecoles/). On est ravie d'enfin trouver un moment pour qu'elle vienne à la Pépille proposer une initiation aux structures vivantes !
 
-En une demi-journée, venez apprendre à tisser le saule au travers plusieurs exemples pratiques : création d'une cabane et d'un tunnel en osier.
+En une demi-journée, venez apprendre à tisser le saule au travers plusieurs exemples pratiques : création d'une cabane et d'un tunnel en osier. 
 
 ## Informations pratiques
 
-Ouvert à toutes et tous, on tâchera même d'accueillir les enfants :)
+Ouvert à toutes et tous, venez avec des vêtements qui ne craignent pas trop (on termine souvent les genoux crottés).
 
-**Tarifs** : 35€ / personne
+**Tarifs** : 40 € / personnes
 
-**Inscription** : [je m'inscris en ligne sur Hello Asso](https://www.helloasso.com/associations/les-vigiliantes/evenements/initiation-vannerie-structures-vivantes)
+**Inscription** : [réservation sur Hello Asso](https://www.helloasso.com/associations/les-vigiliantes/evenements/initiation-vannerie-structures-vivantes)

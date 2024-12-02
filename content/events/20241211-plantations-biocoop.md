@@ -1,8 +1,8 @@
 ---
 title: "Plantations à la Biocoop"
-eventDate: 2024-12-11T09:30:00Z
+eventDate: 2024-12-11T14:00:00Z
 eventReadableDate: "Mercredi 11 décembre 2024"
-eventReadableTime: "heure à venir"
+eventReadableTime: "14h00"
 locationStreet: "Biocoop Élément-Terre, rue de Rennes, zone Cap Sud"
 locationCity: "22100 Lanvallay"
 picture: "/uploads/20241211_plantation_biocoop_vignette.png"
