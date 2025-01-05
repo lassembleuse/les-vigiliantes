@@ -5,7 +5,7 @@ eventReadableDate: "Samedi 11 janvier 2025"
 eventReadableTime: "14h - 17h30"
 locationStreet: "La Pépille, lieu dit les Rouffs"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20250111_vannerie.png"
+picture: "/uploads/20250111_vannerie.jpg"
 published: true
 ---
 

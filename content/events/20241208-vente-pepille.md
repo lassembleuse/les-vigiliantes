@@ -5,7 +5,7 @@ eventReadableDate: "Dimanche 8 décembre 2024"
 eventReadableTime: "10h30 - 12h30"
 locationStreet: "La Pépille, lieu dit les Rouffs"
 locationCity: "22100 Lanvallay"
-picture: "/uploads/20241208_vignette-plantation.png"
+picture: "/uploads/20241208_vignette-plantation.jpg"
 published: true
 ---
 
