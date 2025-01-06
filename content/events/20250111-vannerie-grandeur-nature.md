@@ -21,6 +21,6 @@ En une demi-journée, venez apprendre à tisser le saule au travers plusieurs ex
 
 Ouvert à toutes et tous, venez avec des vêtements qui ne craignent pas trop (on termine souvent les genoux crottés).
 
-**Tarifs** : 40 € / personnes
+**Tarifs** : 35 € / personnes (+ 5€ adhésion à l'asso)
 
 **Inscription** : [réservation sur Hello Asso](https://www.helloasso.com/associations/les-vigiliantes/evenements/initiation-vannerie-structures-vivantes)
