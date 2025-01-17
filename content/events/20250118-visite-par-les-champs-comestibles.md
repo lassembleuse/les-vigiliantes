@@ -1,5 +1,5 @@
 ---
-title: "Visite d'Anaïs, les Champs Comestibles, à la Pépille"
+title: "ANNULÉ - Visite d'Anaïs, les Champs Comestibles, à la Pépille"
 eventDate: 2025-01-18T09:30:00Z
 eventReadableDate: "Samedi 18 janvier 2025"
 eventReadableTime: "10h - 12h"
@@ -8,6 +8,8 @@ locationCity: "22100 Lanvallay"
 picture: "/uploads/20250118_visite_anais.jpg"
 published: true
 ---
+
+*La visite d'Anaïs est finalement annulée, on essaye de la reporter !*
 
 Anaïs, c'est la personne derrière la pépinière Les Champs Comestibles, très chouettes espace de production d'arbres locaux à Corseul. C'est aussi une de nos mentors historiques, qui a très vite soutenu la création de notre pépinière associative et nous a transmis des savoirs !
 
