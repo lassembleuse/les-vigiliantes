@@ -20,7 +20,8 @@ Ah oui, aussi : **il nous reste des plants à la pépinière** ! N'hésitez pas 
 - **vendredi 10 janvier, 14h00 - 16h00** : ouverture publique, chantier ouvert
 - **samedi 11 janvier, 14h - 17h30** : [Initiation vannerie - structures vivantes](https://www.vigiliantes.fr/events/20250111-vannerie-grandeur-nature/)
 - **mercredi 15 janvier, 10h00 - 12h30** : ouverture publique, chantier ouvert
-- **samedi 18 janvier, 10h - 12h** : [Visite-conseil d'Anaïs, pépinière Les Champs Comestibles](/events/20250118-visite-par-les-champs-comestibles/)
+- **samedi 18 janvier, 10h - 12h** : [Visite-conseil d'Anaïs, pépinière Les Champs Comestibles - ANNULÉ](/events/20250118-visite-par-les-champs-comestibles/)
+- **samedi 25 janvier, 11h30 - 12h30** : Comptage des oiseaux de la Pépille
 - **dimanche 26 janvier, 10h00 - 12h30** : [Initiation bouture + ouverture publique](https://www.vigiliantes.fr/events/20250126-initiation-bouture/)
 - **mercredi 29 janvier, 10h00 - 12h30** : ouverture publique, chantier ouvert
 
