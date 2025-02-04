@@ -16,8 +16,8 @@ On s'approche tout doucement de la fin de l'hiver, il est plus que temps de plan
 ### Les prochaines dates en un clin d'oeil
 
 - **mercredi 5 février, 10h00 - 12h30** : ouverture publique, chantier ouvert
-- **mercredi 19 février, 10h00 - 12h30** : ouverture publique, chantier ouvert
 - **dimanche 23 février, 10h00 - 12h30** : [Initiation greffe + ouverture publique](/events/20250223-initiation-greffe/)
+- **mercredi 26 février, 10h00 - 12h30** : ouverture publique, chantier ouvert
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
 
