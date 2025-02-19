@@ -13,7 +13,7 @@ Et si on reprenait, ensemble, la propriété des terres autour de nous ?
 
 Globalement, aujourd'hui, les terres sont de plus en plus maltraitées et accaparées. La tendance agricole va à l'agrandissement, on craint les coupes rases en forêt... 
 
-Pourtant, ce n'est pas une fatalité, il est possible de rendre aux terres alentours leur propriété de biens communs !
+Pourtant, ce n'est pas une fatalité, il est possible de préserver les terres alentours et d'en faire des biens communs !
 
 <!--more-->
 
