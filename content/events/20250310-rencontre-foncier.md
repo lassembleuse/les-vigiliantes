@@ -25,6 +25,7 @@ Pour accompagner ce mouvement de réappropriation des terres, nous vous proposon
 - Quels sont les projets existants autour de moi ? Ceux qui pourraient se monter ?
 
 Des témoins de première ligne apporteront leurs témoignages et éclairages : 
+
 - Nathalie Rosselot et Isabelle Santerre, qui apporteront le recul du [GFA Sol en Bio](https://www.letelegramme.fr/cotes-d-armor/frehel-22240/a-la-ferme-du-gros-chene-mathieu-et-emilie-voient-la-vie-en-bio-3896876.php), créé il y a 15 ans du côté de Fréhel. Nathalie est aussi impliquée dans la [SCI Terres Paysannes et Citoyennes du Penthièvre](https://www.paysan-breton.fr/2024/12/yoann-le-strat-a-pu-sinstaller-grace-a-une-epargne-locale-et-citoyenne/).
 - Camille Condette, de la [SCIC Terres d'Ici](https://terresdici.net/), du côté de Dol, qui présentera un autre modèle de structure
 - Rémi Goupil, pour la [Ferme de la Raudais](https://www.fermedelaraudais.fr/), qui vient de lancer son GFA
