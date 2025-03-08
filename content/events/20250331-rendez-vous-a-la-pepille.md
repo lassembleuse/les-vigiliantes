@@ -17,7 +17,7 @@ Les premières petites pousses les plus téméraires pointent le bout de leur ne
 
 - **mercredi 5 mars, 10h00 - 12h30** : ouverture publique, chantier ouvert
 - **lundi 10 mars, 20h00 - 21h30** : [À nous la terre ! Rencontre autour du foncier](/events/20250310-rencontre-foncier/)
-- **mercredi 19 mars, 10h00 - 12h30** : ouverture publique, chantier ouvert
+- **mercredi 19 mars, 10h00 - 12h30** : greffe anglaise sur des pommiers (on initie qui veut !)
 - **mercredi 26 mars, 10h00 - 12h30** : ouverture publique, chantier ouvert
 - **dimanche 30 mars, 10h00 - 12h30** : ouverture publique, chantier ouvert
 
