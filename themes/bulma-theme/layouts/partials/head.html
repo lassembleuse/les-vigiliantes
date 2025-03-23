@@ -7,7 +7,7 @@
   {{ with .Site.Data.global.seo_keywords }}  <meta name="keywords" content="{{ . }}">{{ end }}
   <link rel="shortcut icon" type="image/png" href="{{ .Site.BaseURL }}/favicon.png" />
 
-  {{ if .Site.IsServer }}
+  {{ if hugo.IsServer }}
     {{ $cssOpts := (dict "targetPath" "css/main.css" "enableSourceMap" true ) }}
     {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.css" . | toCSS $cssOpts }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
