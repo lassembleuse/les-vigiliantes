@@ -73,7 +73,7 @@ Le plus vieux GFA du coin. A l’origine, un paysan qui cherche à s’installer
 
 Positionnement du CA aujourd’hui : volonté de continuer à soutenir des installations dans le coin (côte de Penthièvre) mais pas + loin. A d’autres collectifs de s’implanter ailleurs, et ok pour les aider !
 
-### SCI Terres Paysannes et Citoyennes du Penthièvre
+### SCI Terres Paysannes et Citoyennes du Penthièvre (TPCP)
 
 - créée le 1 janvier 2024, il y a 1 an
 - Zone d’action : Penthièvre
@@ -99,7 +99,7 @@ Leurs principes de gestion :
 - 1 personne / 1 voix (peu importe nombre de parts)
 - pas de spéculation (la part ne prend pas de valeur)
 - permet de conclure des baux à clause environnementale
-Choix de créer un SCIC, notamment pour pouvoir proposer des réductions fiscales grâce à l’agrément ESUS (25% de réduction sur le don).
+- Choix de créer un SCIC, notamment pour pouvoir proposer des réductions fiscales grâce à l’agrément ESUS (25% de réduction sur le don).
 
 **La SCIC est encore en recherche de "sociéterres" !**
 Plus d'infos : [terresdici.net](https://terresdici.net/)
@@ -156,7 +156,9 @@ Soutient le rachat de forêts pour les laisser en libre évolution. Ne travaille
 ## Quelques points à retenir en vrac
 
 - Une stratégie qui a fonctionné pour le GFA Sol en Bio : ne pas trop dépenser d’énergie à chercher de riches mécènes ou des investisseurs mais plutôt ouvrir à de **nombreuses personnes contributrices**.
-- Possibilité d’avoir des **réductions fiscales** avec l’agrément ESUS, au moins quand on est une SCIC (25% de réduction sur la valeur des parts la 1ere année, sous réserve qu'on conserve ses parts au moins 7 ans).
+- Possibilité d’avoir des **réductions fiscales** :
+  - avec l’agrément ESUS quand on est une SCIC (25% de réduction sur la valeur des parts la 1ere année, sous réserve qu'on conserve ses parts au moins 7 ans)
+  - avec l'accord des services des impôts pour les autres structures. C'est la démarche effectuée par le GFA Sol en Bio et la SCI TPCP : contact avec leur centre des impôts en leur expliquant leur activité et mettant en avant l’aspect épargne solidaire et le but non lucratif (ce qui figure dans les statuts), leurs activités sociales et solidaires. Le centre a alors fournit une réponse écrite attestant de la possibilité pour les associés de bénéficier de la réduction d’impôts de 25%, au même titre que les structures entrant dans le champs de l'agrément ESUS. 
 
 ### Gouvernance
 
@@ -169,6 +171,16 @@ Soutient le rachat de forêts pour les laisser en libre évolution. Ne travaille
 - Les structures types GFA citoyen, SCI citoyenne ou SCIC sont encore assez **atypiques** auprès des administrations (SAFER, notaires...). C'est pas courant une structure à 250 associés ! Il faut faire preuve de **pédagogie**
 - Un facteur clé du succès pour réussir à obtenir des terres est d'aller **rencontrer la SAFER**, se faire connaître, faire du lobbying. 
 
+### Quelques précisions apportées après coup par le vice-président à l'agriculture de Dinan Agglomération
+
+- Des **structures existent** sur le territoire pour soutenir l’agriculture paysanne » : Dinan Agglomération via son Projet Alimentaire Territorial (PAT), Agriculture Paysanne 22 etc.
+- Le Projet Alimentaire Territorial de Dinan Agglomération travaille étroitement avec Nadège Lefeuvre et ses collègues bénévoles du GFA Sol en Bio et SCI Gaia à chaque fois que nous avons besoin de capitaux pour installer quelqu’un en Bio ou l’agrandir modérément. Projet en cours sur Beaussais / Mer. Projet en discussion sur Les Champs Géraux etc. Ce qui fait que **jusqu’à présent, aucune installation paysanne n’est freinée pour des raisons de manque de capacité** à acheter les terres.
+- La **veille foncière** pour détecter les cessations d’activités et les propriétaires vendeurs est de plus en plus forte sur notre territoire, chapeautée par le service agriculture de Dinan Agglomération, aidé par 
+  - 1) les autres services de l'agglomération,
+  - 2) un réseau d’une dizaine de jeunes retraités agricoles, 
+  - 3) unréseau de structures para-agricoles, 
+  - 4) le service Vigi-Foncier de la SAFER, pris en charge par Dinan Agglomération mais accessible à chacune des communes.
+
 ### Les projections sur le territoire
 
 Qu'est-ce qui se profile sur le pays de Dinan ? 
@@ -177,7 +189,7 @@ Le GFA Sol en Bio et la SCI Terres Paysannes et Citoyennes du Penthièvre se con
 
 Le GFA de la Raudais vient tout juste de se lancer, et se concentre donc sur les terres de la ferme de la Raudais.
 
-Peut-être **manque-t-il une structure citoyenne** qui puisse soutenir l'installation ou la sauvegarde des terres en pays de Dinan ? 
+Peut-être **manque-t-il une structure foncière citoyenne** (SCI, SCIC...) qui puisse porter l'installation ou la sauvegarde des terres en pays de Dinan ? 
 
 **Peut-être faut-il y réfléchir par anticipation, regrouper un groupe de personnes du territoire motivées et préfigurer dès maintenant une structure porteuse ?**
 
