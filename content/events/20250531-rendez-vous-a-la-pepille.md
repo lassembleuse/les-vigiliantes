@@ -16,9 +16,10 @@ Bam, ça explose dans tous les sens, avec les premières feuilles vert pêtantes
 ### Les prochaines dates en un clin d'oeil
 
 - **mercredi 7 mai, 10h00 - 12h30** : [Greffe Party aux Rouffs](/events/20250507-greffe-party-rouffs)
+- **mardi 13 mai, 10h00 - 11h00** : présentation de la Pépille à des élèves du collège de la Gautrais de Plouasne
 - **mercredi 14 mai, 14h00 - 17h30** : [plantation à la Biocoop - session printanière](/events/20250514-plantations-biocoop-printemps) 
 - **mercredi 21 mai, 10h00 - 12h30** : ouverture publique, chantier ouvert
-- **dimanche 25 mai, 10h00 - 12h30** : ouverture publique, chantier ouvert, repas partagé 
+- **dimanche 25 mai, 10h00 - 12h30** : [Fête de la nature](/events/20250525-fete-nature), repas partagé 
 
 
 Comme d'habitude, vous pouvez aussi très bien passer juste pour papoter :)
