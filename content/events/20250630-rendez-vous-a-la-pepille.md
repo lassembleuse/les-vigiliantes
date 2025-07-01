@@ -23,11 +23,9 @@ Allez, on vous invite, venez profiter avec nous et créer une petite oasis de fr
 - **mercredi 9 juillet, 18h00 - 20h00** : chantier-apéro*
 - **mercredi 23 juillet, 18h00 - 20h00** : chantier-apéro*
 - **dimanche 27 juillet, 10h00 - 12h30** : préparation de l'installation de la pergola, on creuse les fondations
+- **lundi 4 août, à partir de 9h30** : [Atelier participatif pergola](/events/20250701-atelier-participatif-pergola) 
 - **lundi 18 août, 18h00 - 20h00** : chantier-apéro*
 - **dimanche 31 août, 10h00 - 12h30** : bilan de l'été et inventaire des plantations
-
-
-- **lundi 4 août, à partir de 9h30** : [Atelier participatif pergola](/events/20250701-atelier-participatif-pergola) 
 
 \* *__chantiers-apéros__ : on met la main à la patte, puis on partage l'apéro. Objectifs arrosage et construction de supports pour filer un coup de main aux plantes grimpantes et aux lianes, le tout en papotant et en grignotant les fruits de la pépille !*
 
