@@ -11,7 +11,7 @@ published: true
 
 Entre deux coups de chaud, il fait bon à la Pépille. Ce qui permet justement de préparer les coups de chaud futur : on arrose, on avance sur une pergola géante pour pouvoir s'abriter du soleil le temps que les arbres poussent...
 
-On n'est pas toujours d'une efficacité folle, la faute à l'abondonce qui arrive : les sessions de travail errêtent pas d'être entrecoupées de picorage de fruits (fraises, groseilles, cassis, amélanches, framboises...), et de contemplation des futurs fruits en formation (des pêches ! Des pommes ! Du raisin ! Youpi !).
+On n'est pas toujours d'une efficacité folle, la faute à l'abondance qui arrive : les sessions de travail ne cessent d'être entrecoupées de picorage de fruits (fraises, groseilles, cassis, amélanches, framboises...), et de contemplation des futurs fruits en formation (des pêches ! Des pommes ! Du raisin ! Youpi !).
 
 Allez, on vous invite, venez profiter avec nous et créer une petite oasis de fraîcheur
 
