@@ -24,11 +24,15 @@ On taaaaiiille ! Ce dimanche, discussion et session de taille collaborative des 
 C'est aussi le moment de s'occuper de la pépinière et de laisser partir certains plants vers d'autres terres... Belle occasion : vous pourrez repartir avec les plants sortis de la pépinière à prix libre.
 
 
-#### Dimanche 22 Février, 10h00 - 12h30 : Assemblée générale + greffage
+#### Dimanche 22 Février, 10h00 - 12h30 : greffage
 
-On vous invite à notre Assemblée Générale, moment fort pour échanger sur notre association et soutenir le projet.                         
+Atelier/initiation au greffage, n'hésitez pas à partager vos greffons !
 
-Ensuite place à un atelier/initiation au greffage, n'hésitez pas à partager vos greffons !
+**L'AG est reportée au dimanche 1er mars**
+
+#### Dimanche 1er Mars, 10h30 - 12h : Assemblée générale
+
+On vous invite à notre Assemblée Générale, moment fort pour échanger sur notre association et soutenir le projet.   
 
 
 **Pour venir :**
