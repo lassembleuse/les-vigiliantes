@@ -2,7 +2,7 @@
 title: "Rendez-vous à la Pépille - janvier-février 2026"
 eventDate: 2026-02-28T10:00:00Z
 eventReadableDate: "Dimanche 25 janvier"
-eventReadableTime: "dimanche 22 février 2025"
+eventReadableTime: "dimanche 22 février 2026"
 locationStreet: "La Pépille, lieu dit les Rouffes"
 locationCity: "22100 Lanvallay"
 picture: "/uploads/20260228_Pepille.jpg"
