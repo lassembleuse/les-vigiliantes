@@ -36,9 +36,9 @@ On continue à prendre soin de la Pépille comme en juillet, mais avec en prime 
 - Mercredi 5 août, 10h - 12h
 - Lundi 10 août, 18h - 20h
 - Mercredi 19 août, 10h - 12h
-- Dimanche 23 août, 10h - 12h (suivi d'un repas partagé !)
 - Lundi 24 août, 18h - 20h
-- Samedi 29 août, 10h - 17h : retrouvez-nous au forum des associations de Lanvallay !
+- Samedi 29 août, 10h - 17h : retrouvez-nous au forum des associations de Lanvallay
+- Dimanche 30 août, 10h - 12h (suivi d'un repas partagé !)
 
 
 **Pour venir :**
