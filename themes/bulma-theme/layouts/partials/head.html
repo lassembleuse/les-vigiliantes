@@ -17,6 +17,72 @@
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"
       crossorigin="anonymous" media="screen" />
   {{ end }}
+  <!-- Begin Brevo Form -->
+  <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+
+  <style>
+  @font-face {
+    font-display: block;
+    font-family: Roboto;
+    src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+
+  :where(.sib-form-message-panel) {
+    display: none;
+  }
+
+  :where(.sib-form-message-panel .sib-notification__icon) {
+    width: 20px;
+    height: 20px;
+  }
+
+
+  #sib-container input:-ms-input-placeholder {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: #c0ccda;
+  }
+
+  #sib-container input::placeholder {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: #c0ccda;
+  }
+
+  #sib-container textarea::placeholder {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: #c0ccda;
+  }
+
+
+  #sib-container a {
+    text-decoration: underline;
+    color: #2BB2FC;
+  }
+  .sib-form, #sib-container, .sib-form-block {
+    padding: 0px;
+  }
+  .sib-form { padding-top: 6px; }
+  .sib-form .entry__error, .sib-form .entry__label, .sib-form .entry__specification, .sib-form .form__error {
+    max-width: 100%
+  }
+</style>
+<!-- End Brevo Form -->
 
   <!-- Diaporama -->
   {{ if .Params.slider }}
@@ -29,17 +95,5 @@
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
   <title>{{ $title }}</title>
   {{ template "_internal/google_analytics.html" . }}
-
-
-<!-- MailerLite Universal -->
-<script>
-  (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-  .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-  n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-  (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-  ml('account', '292478');
-</script>
-<!-- End MailerLite Universal -->
-
 
 </head>
