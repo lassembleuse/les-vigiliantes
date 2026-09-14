@@ -9,9 +9,11 @@ picture: "/uploads/20261031_Pepille.jpg"
 published: true
 ---
 
-La sécheresse de l'été se fait toujours sentir, mais il est déjà temps de penser à la saison automnale - hivernale. Commencer la multiplication des végétaux, planifier les prochaines plantations et les rotations dans la pépinière...
+Avec un peu de chance, l'humidité revient et facilite les travaux de l'automne ? Quoi qu'il en soit, il sera essentiellement question sur la période de bouture et de préparation de plantations. 
 
-Et préparer une grande fête pour le mois d'octobre !
+Entre les gouttes (on croise les doigts pour qu'il y en ait et on manque pas une occasion de les appeler), on prend aussi le temps de se rencontrer et de découvrir des initiatives inspirantes (sur la parcelle, et ailleurs).
+
+On a hâte de partager tout ça avec vous !
 
 <!--more-->
 
