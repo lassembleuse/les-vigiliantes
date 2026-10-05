@@ -28,13 +28,24 @@ Plusieurs propositions de notre asso dans le cadre de [Jardins en fête](/events
 - atelier vannerie
 - discussion autour des jardin-forêt...
 
+### Vendredi 9 octobre, 14h - 17h 
+
+On passe en mode multiplcation ! 
+
+Suivant les envies on vous embarque pour : 
+
+- faire de la marcotte direct en godet,
+- et/ou commencer à préparer l'espace boutures
+- et/ou commencer à cartonner de futures zones de plantation 
+- et/ou commencer à planter quelques pots filés par une de nos pépiniéristes préférées. 
+
 ### Samedi 10 octobre, 14h30 - 17h
 
 [Visite de la pépinière Gourmand de nature](/events/20261010-visite-gourmand-de-nature/) à Vignoc.
 
 ### Mercredi 14 octobre, 10h - 12h30
 
-Poursuite de bouture, probablement !
+Voir le programme du 9 octobre :)
 
 ### Dimanche 25 octobre, 10h - 12h30
 
